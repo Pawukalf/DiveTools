@@ -1,0 +1,54 @@
+[ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsApp.mc"; @line = 1; @symbol_usingdef<0> = [Toybox,1,6,12]; @symbol_usingdef<1> = [Application,1,13,24]; ]
+using Toybox.Application;
+[ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsApp.mc"; @line = 3; @symbol_classdef = [DiveToolsApp,3,6,18]; @symbol_extends<0> = [Application,3,27,38]; @symbol_extends<1> = [AppBase,3,39,46]; ]
+class DiveToolsApp extends Application.AppBase {
+    [ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsApp.mc"; @line = 3; ]
+    <init> {
+    }
+    [ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsApp.mc"; @line = 3; ]
+    static
+    <init> {
+    }
+    [ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsApp.mc"; @line = 5; @symbol_functiondef = [initialize,5,13,23]; ]
+    function initialize() as Void {
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsApp_mc_5_26_7_4_start:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsApp.mc" 6 8 ]
+        symbol [ AppBase %tmp.2 6 8 15 ];
+        %tmp.2 = getv ? :AppBase;
+        symbol [ initialize %tmp.3 6 16 26 ];
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsApp_mc_5_26_7_4_stop:
+    }
+    [ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsApp.mc"; @line = 9; @symbol_functiondef = [getInitialView,9,13,27]; ]
+    function getInitialView() {
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsApp_mc_9_30_16_4_start:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsApp.mc" 10 8 ]
+        [ "C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsApp_mc_9_30_16_4_start" "C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsApp_mc_9_30_16_4_stop" ]
+        %view.1 = local;
+        symbol [ view %view.1 10 12 16 ];
+        symbol [ DiveToolsView %tmp.4 10 23 36 ];
+        %tmp.4 = getv ? :DiveToolsView;
+        %tmp.1 = newc %tmp.4 ();
+        lputv %view.1 %tmp.1;
+        symbol [ view %view.1 10 12 16 ];
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsApp.mc" 12 8 ]
+        %tmp.5 = newa 2;
+        %tmp.6 = lgetv %view.1;
+        symbol [ view %tmp.6 13 12 16 ];
+        %tmp.7 = dup %tmp.5;
+        %tmp.8 = aputv %tmp.7 0 %tmp.6;
+        symbol [ DiveToolsDelegate %tmp.12 14 16 33 ];
+        %tmp.12 = getv ? :DiveToolsDelegate;
+        %tmp.13 = lgetv %view.1;
+        symbol [ view %tmp.13 14 34 38 ];
+        %tmp.9 = newc %tmp.12 (%tmp.13);
+        %tmp.14 = dup %tmp.8;
+        %tmp.15 = aputv %tmp.14 1 %tmp.9;
+        ret %tmp.15;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsApp_mc_9_30_16_4_stop:
+    }
+}
+[ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsApp.mc"; @line = 1; ]
+<init> {
+}

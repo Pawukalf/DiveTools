@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="1" lineNum="3" parent="globals/DiveToolsDelegate" pc="268435460" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsApp.mc" id="2" lineNum="3" parent="globals/DiveToolsApp" pc="268435472" symbol="&lt;init&gt;"/>
+        <entry filename="c:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\bin\\gen\\006-B4223-00\\source\\Rez.mcgen" id="3" lineNum="7" parent="globals/Rez" pc="268435484" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="4" lineNum="3" parent="globals/BestMixDelegate" pc="268435504" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ToolView.mc" id="5" lineNum="4" parent="globals/ToolView" pc="268435516" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="6" lineNum="3" parent="globals/ModDelegate" pc="268435528" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="7" lineNum="4" parent="globals/EndView" pc="268435540" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="8" lineNum="4" parent="globals/DiveToolsView" pc="268435552" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="9" lineNum="3" parent="globals/EadDelegate" pc="268435564" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="10" lineNum="4" parent="globals/EadView" pc="268435576" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="11" lineNum="4" parent="globals/ModView" pc="268435588" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="12" lineNum="4" parent="globals/BestMixView" pc="268435600" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="13" lineNum="3" parent="globals/EndDelegate" pc="268435612" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsMenuDelegate.mc" id="14" lineNum="3" parent="globals/DiveToolsMenuDelegate" pc="268435624" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="15" lineNum="8" parent="globals/DiveToolsDelegate" pc="268435636" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="15" lineNum="9" parent="globals/DiveToolsDelegate" pc="268435638" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="15" lineNum="11" parent="globals/DiveToolsDelegate" pc="268435650" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="38" parent="globals/DiveToolsDelegate" pc="268435660" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="39" parent="globals/DiveToolsDelegate" pc="268435663" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="42" parent="globals/DiveToolsDelegate" pc="268435676" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="43" parent="globals/DiveToolsDelegate" pc="268435683" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="46" parent="globals/DiveToolsDelegate" pc="268435703" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="52" parent="globals/DiveToolsDelegate" pc="268435739" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="55" parent="globals/DiveToolsDelegate" pc="268435743" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="56" parent="globals/DiveToolsDelegate" pc="268435751" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="59" parent="globals/DiveToolsDelegate" pc="268435771" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="67" parent="globals/DiveToolsDelegate" pc="268435807" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="70" parent="globals/DiveToolsDelegate" pc="268435811" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="71" parent="globals/DiveToolsDelegate" pc="268435819" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="74" parent="globals/DiveToolsDelegate" pc="268435839" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="80" parent="globals/DiveToolsDelegate" pc="268435875" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="83" parent="globals/DiveToolsDelegate" pc="268435879" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="84" parent="globals/DiveToolsDelegate" pc="268435887" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="87" parent="globals/DiveToolsDelegate" pc="268435907" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="16" lineNum="93" parent="globals/DiveToolsDelegate" pc="268435943" symbol="openSelectedTool"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="17" lineNum="14" parent="globals/DiveToolsDelegate" pc="268435948" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="17" lineNum="15" parent="globals/DiveToolsDelegate" pc="268435951" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="17" lineNum="17" parent="globals/DiveToolsDelegate" pc="268435960" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="17" lineNum="18" parent="globals/DiveToolsDelegate" pc="268435968" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="17" lineNum="19" parent="globals/DiveToolsDelegate" pc="268435984" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="17" lineNum="22" parent="globals/DiveToolsDelegate" pc="268435989" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="17" lineNum="23" parent="globals/DiveToolsDelegate" pc="268435997" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="17" lineNum="24" parent="globals/DiveToolsDelegate" pc="268436013" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="17" lineNum="27" parent="globals/DiveToolsDelegate" pc="268436018" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="17" lineNum="31" parent="globals/DiveToolsDelegate" pc="268436034" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="17" lineNum="32" parent="globals/DiveToolsDelegate" pc="268436041" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsDelegate.mc" id="17" lineNum="35" parent="globals/DiveToolsDelegate" pc="268436046" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsApp.mc" id="18" lineNum="9" parent="globals/DiveToolsApp" pc="268436048" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsApp.mc" id="18" lineNum="10" parent="globals/DiveToolsApp" pc="268436051" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsApp.mc" id="18" lineNum="12" parent="globals/DiveToolsApp" pc="268436071" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsApp.mc" id="19" lineNum="5" parent="globals/DiveToolsApp" pc="268436104" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsApp.mc" id="19" lineNum="6" parent="globals/DiveToolsApp" pc="268436106" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="20" lineNum="8" parent="globals/BestMixDelegate" pc="268436119" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="20" lineNum="9" parent="globals/BestMixDelegate" pc="268436121" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="20" lineNum="10" parent="globals/BestMixDelegate" pc="268436133" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="21" lineNum="13" parent="globals/BestMixDelegate" pc="268436143" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="21" lineNum="14" parent="globals/BestMixDelegate" pc="268436146" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="21" lineNum="16" parent="globals/BestMixDelegate" pc="268436155" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="21" lineNum="17" parent="globals/BestMixDelegate" pc="268436163" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="21" lineNum="18" parent="globals/BestMixDelegate" pc="268436175" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="21" lineNum="21" parent="globals/BestMixDelegate" pc="268436180" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="21" lineNum="22" parent="globals/BestMixDelegate" pc="268436188" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="21" lineNum="23" parent="globals/BestMixDelegate" pc="268436200" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="21" lineNum="26" parent="globals/BestMixDelegate" pc="268436205" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="21" lineNum="30" parent="globals/BestMixDelegate" pc="268436221" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="21" lineNum="31" parent="globals/BestMixDelegate" pc="268436233" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="21" lineNum="34" parent="globals/BestMixDelegate" pc="268436238" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="21" lineNum="35" parent="globals/BestMixDelegate" pc="268436246" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="21" lineNum="39" parent="globals/BestMixDelegate" pc="268436260" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixDelegate.mc" id="21" lineNum="42" parent="globals/BestMixDelegate" pc="268436265" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ToolView.mc" id="22" lineNum="8" parent="globals/ToolView" pc="268436267" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ToolView.mc" id="22" lineNum="9" parent="globals/ToolView" pc="268436269" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ToolView.mc" id="22" lineNum="10" parent="globals/ToolView" pc="268436281" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ToolView.mc" id="23" lineNum="13" parent="globals/ToolView" pc="268436291" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ToolView.mc" id="23" lineNum="14" parent="globals/ToolView" pc="268436294" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ToolView.mc" id="23" lineNum="16" parent="globals/ToolView" pc="268436301" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ToolView.mc" id="23" lineNum="21" parent="globals/ToolView" pc="268436317" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ToolView.mc" id="23" lineNum="23" parent="globals/ToolView" pc="268436325" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ToolView.mc" id="23" lineNum="24" parent="globals/ToolView" pc="268436339" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ToolView.mc" id="23" lineNum="25" parent="globals/ToolView" pc="268436349" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ToolView.mc" id="23" lineNum="26" parent="globals/ToolView" pc="268436363" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ToolView.mc" id="23" lineNum="27" parent="globals/ToolView" pc="268436373" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ToolView.mc" id="23" lineNum="28" parent="globals/ToolView" pc="268436387" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ToolView.mc" id="23" lineNum="29" parent="globals/ToolView" pc="268436397" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ToolView.mc" id="23" lineNum="30" parent="globals/ToolView" pc="268436411" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ToolView.mc" id="23" lineNum="33" parent="globals/ToolView" pc="268436421" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="24" lineNum="7" parent="globals/ModDelegate" pc="268436458" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="24" lineNum="8" parent="globals/ModDelegate" pc="268436460" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="24" lineNum="9" parent="globals/ModDelegate" pc="268436472" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="25" lineNum="12" parent="globals/ModDelegate" pc="268436482" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="25" lineNum="13" parent="globals/ModDelegate" pc="268436485" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="25" lineNum="15" parent="globals/ModDelegate" pc="268436494" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="25" lineNum="16" parent="globals/ModDelegate" pc="268436502" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="25" lineNum="17" parent="globals/ModDelegate" pc="268436514" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="25" lineNum="20" parent="globals/ModDelegate" pc="268436519" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="25" lineNum="21" parent="globals/ModDelegate" pc="268436527" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="25" lineNum="22" parent="globals/ModDelegate" pc="268436539" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="25" lineNum="25" parent="globals/ModDelegate" pc="268436544" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="25" lineNum="29" parent="globals/ModDelegate" pc="268436560" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="25" lineNum="30" parent="globals/ModDelegate" pc="268436572" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="25" lineNum="33" parent="globals/ModDelegate" pc="268436577" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="25" lineNum="34" parent="globals/ModDelegate" pc="268436585" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="25" lineNum="38" parent="globals/ModDelegate" pc="268436599" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModDelegate.mc" id="25" lineNum="41" parent="globals/ModDelegate" pc="268436604" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="26" lineNum="112" parent="globals/EndView" pc="268436606" symbol="getOxygenColor"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="26" lineNum="113" parent="globals/EndView" pc="268436609" symbol="getOxygenColor"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="26" lineNum="115" parent="globals/EndView" pc="268436617" symbol="getOxygenColor"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="26" lineNum="116" parent="globals/EndView" pc="268436628" symbol="getOxygenColor"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="26" lineNum="119" parent="globals/EndView" pc="268436637" symbol="getOxygenColor"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="26" lineNum="120" parent="globals/EndView" pc="268436648" symbol="getOxygenColor"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="26" lineNum="123" parent="globals/EndView" pc="268436657" symbol="getOxygenColor"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="27" lineNum="82" parent="globals/EndView" pc="268436663" symbol="calculateNitrogen"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="27" lineNum="83" parent="globals/EndView" pc="268436665" symbol="calculateNitrogen"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="28" lineNum="184" parent="globals/EndView" pc="268436680" symbol="drawTitle"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="28" lineNum="185" parent="globals/EndView" pc="268436683" symbol="drawTitle"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="28" lineNum="186" parent="globals/EndView" pc="268436687" symbol="drawTitle"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="28" lineNum="188" parent="globals/EndView" pc="268436700" symbol="drawTitle"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="28" lineNum="193" parent="globals/EndView" pc="268436717" symbol="drawTitle"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="29" lineNum="102" parent="globals/EndView" pc="268436747" symbol="calculatePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="29" lineNum="103" parent="globals/EndView" pc="268436750" symbol="calculatePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="29" lineNum="106" parent="globals/EndView" pc="268436769" symbol="calculatePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="29" lineNum="109" parent="globals/EndView" pc="268436794" symbol="calculatePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="30" lineNum="272" parent="globals/EndView" pc="268436800" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="30" lineNum="280" parent="globals/EndView" pc="268436803" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="30" lineNum="281" parent="globals/EndView" pc="268436807" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="30" lineNum="283" parent="globals/EndView" pc="268436820" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="30" lineNum="286" parent="globals/EndView" pc="268436835" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="30" lineNum="289" parent="globals/EndView" pc="268436842" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="30" lineNum="293" parent="globals/EndView" pc="268436852" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="30" lineNum="297" parent="globals/EndView" pc="268436862" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="30" lineNum="300" parent="globals/EndView" pc="268436869" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="30" lineNum="301" parent="globals/EndView" pc="268436874" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="30" lineNum="306" parent="globals/EndView" pc="268436887" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="30" lineNum="315" parent="globals/EndView" pc="268436910" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="30" lineNum="320" parent="globals/EndView" pc="268436924" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="30" lineNum="328" parent="globals/EndView" pc="268436950" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="31" lineNum="72" parent="globals/EndView" pc="268436967" symbol="nextEditMode"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="31" lineNum="73" parent="globals/EndView" pc="268436969" symbol="nextEditMode"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="31" lineNum="75" parent="globals/EndView" pc="268436984" symbol="nextEditMode"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="31" lineNum="76" parent="globals/EndView" pc="268436995" symbol="nextEditMode"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="31" lineNum="79" parent="globals/EndView" pc="268437006" symbol="nextEditMode"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="32" lineNum="24" parent="globals/EndView" pc="268437018" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="32" lineNum="25" parent="globals/EndView" pc="268437020" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="32" lineNum="26" parent="globals/EndView" pc="268437030" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="32" lineNum="28" parent="globals/EndView" pc="268437045" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="32" lineNum="29" parent="globals/EndView" pc="268437057" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="32" lineNum="31" parent="globals/EndView" pc="268437073" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="32" lineNum="32" parent="globals/EndView" pc="268437084" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="32" lineNum="34" parent="globals/EndView" pc="268437099" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="32" lineNum="35" parent="globals/EndView" pc="268437116" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="32" lineNum="38" parent="globals/EndView" pc="268437137" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="32" lineNum="40" parent="globals/EndView" pc="268437152" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="32" lineNum="41" parent="globals/EndView" pc="268437169" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="32" lineNum="45" parent="globals/EndView" pc="268437187" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="33" lineNum="48" parent="globals/EndView" pc="268437199" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="33" lineNum="49" parent="globals/EndView" pc="268437201" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="33" lineNum="50" parent="globals/EndView" pc="268437211" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="33" lineNum="52" parent="globals/EndView" pc="268437226" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="33" lineNum="53" parent="globals/EndView" pc="268437237" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="33" lineNum="55" parent="globals/EndView" pc="268437252" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="33" lineNum="56" parent="globals/EndView" pc="268437263" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="33" lineNum="58" parent="globals/EndView" pc="268437278" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="33" lineNum="59" parent="globals/EndView" pc="268437289" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="33" lineNum="62" parent="globals/EndView" pc="268437304" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="33" lineNum="64" parent="globals/EndView" pc="268437319" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="33" lineNum="65" parent="globals/EndView" pc="268437329" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="33" lineNum="69" parent="globals/EndView" pc="268437340" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="34" lineNum="86" parent="globals/EndView" pc="268437352" symbol="calculateEnd"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="34" lineNum="87" parent="globals/EndView" pc="268437355" symbol="calculateEnd"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="34" lineNum="90" parent="globals/EndView" pc="268437375" symbol="calculateEnd"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="34" lineNum="95" parent="globals/EndView" pc="268437409" symbol="calculateEnd"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="34" lineNum="96" parent="globals/EndView" pc="268437416" symbol="calculateEnd"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="34" lineNum="99" parent="globals/EndView" pc="268437422" symbol="calculateEnd"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="35" lineNum="11" parent="globals/EndView" pc="268437425" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="35" lineNum="12" parent="globals/EndView" pc="268437427" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="35" lineNum="14" parent="globals/EndView" pc="268437439" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="35" lineNum="15" parent="globals/EndView" pc="268437448" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="35" lineNum="16" parent="globals/EndView" pc="268437457" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="35" lineNum="21" parent="globals/EndView" pc="268437466" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="36" lineNum="334" parent="globals/EndView" pc="268437475" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="36" lineNum="335" parent="globals/EndView" pc="268437478" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="36" lineNum="336" parent="globals/EndView" pc="268437481" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="36" lineNum="339" parent="globals/EndView" pc="268437494" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="36" lineNum="340" parent="globals/EndView" pc="268437504" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="36" lineNum="341" parent="globals/EndView" pc="268437514" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="36" lineNum="342" parent="globals/EndView" pc="268437525" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="36" lineNum="344" parent="globals/EndView" pc="268437535" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="36" lineNum="347" parent="globals/EndView" pc="268437542" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="36" lineNum="352" parent="globals/EndView" pc="268437559" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="36" lineNum="360" parent="globals/EndView" pc="268437585" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="37" lineNum="126" parent="globals/EndView" pc="268437602" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="37" lineNum="127" parent="globals/EndView" pc="268437605" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="37" lineNum="128" parent="globals/EndView" pc="268437614" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="37" lineNum="130" parent="globals/EndView" pc="268437623" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="37" lineNum="135" parent="globals/EndView" pc="268437639" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="37" lineNum="137" parent="globals/EndView" pc="268437647" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="37" lineNum="143" parent="globals/EndView" pc="268437671" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="37" lineNum="150" parent="globals/EndView" pc="268437695" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="37" lineNum="159" parent="globals/EndView" pc="268437761" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="37" lineNum="168" parent="globals/EndView" pc="268437829" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="37" lineNum="177" parent="globals/EndView" pc="268437896" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="38" lineNum="202" parent="globals/EndView" pc="268437921" symbol="drawEndResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="38" lineNum="203" parent="globals/EndView" pc="268437924" symbol="drawEndResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="38" lineNum="204" parent="globals/EndView" pc="268437928" symbol="drawEndResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="38" lineNum="206" parent="globals/EndView" pc="268437932" symbol="drawEndResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="38" lineNum="209" parent="globals/EndView" pc="268437953" symbol="drawEndResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="38" lineNum="211" parent="globals/EndView" pc="268437960" symbol="drawEndResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="38" lineNum="217" parent="globals/EndView" pc="268437975" symbol="drawEndResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="38" lineNum="223" parent="globals/EndView" pc="268437990" symbol="drawEndResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="38" lineNum="226" parent="globals/EndView" pc="268438003" symbol="drawEndResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="38" lineNum="229" parent="globals/EndView" pc="268438016" symbol="drawEndResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="38" lineNum="231" parent="globals/EndView" pc="268438020" symbol="drawEndResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="38" lineNum="236" parent="globals/EndView" pc="268438030" symbol="drawEndResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="38" lineNum="240" parent="globals/EndView" pc="268438040" symbol="drawEndResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="38" lineNum="244" parent="globals/EndView" pc="268438050" symbol="drawEndResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="38" lineNum="250" parent="globals/EndView" pc="268438063" symbol="drawEndResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="38" lineNum="255" parent="globals/EndView" pc="268438080" symbol="drawEndResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndView.mc" id="38" lineNum="263" parent="globals/EndView" pc="268438100" symbol="drawEndResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="39" lineNum="27" parent="globals/DiveToolsView" pc="268438127" symbol="getSelection"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="39" lineNum="28" parent="globals/DiveToolsView" pc="268438129" symbol="getSelection"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="40" lineNum="13" parent="globals/DiveToolsView" pc="268438135" symbol="moveSelection"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="40" lineNum="14" parent="globals/DiveToolsView" pc="268438137" symbol="moveSelection"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="40" lineNum="16" parent="globals/DiveToolsView" pc="268438152" symbol="moveSelection"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="40" lineNum="17" parent="globals/DiveToolsView" pc="268438162" symbol="moveSelection"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="40" lineNum="20" parent="globals/DiveToolsView" pc="268438174" symbol="moveSelection"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="40" lineNum="21" parent="globals/DiveToolsView" pc="268438185" symbol="moveSelection"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="40" lineNum="24" parent="globals/DiveToolsView" pc="268438196" symbol="moveSelection"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="41" lineNum="81" parent="globals/DiveToolsView" pc="268438208" symbol="drawOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="41" lineNum="82" parent="globals/DiveToolsView" pc="268438211" symbol="drawOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="41" lineNum="83" parent="globals/DiveToolsView" pc="268438215" symbol="drawOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="41" lineNum="85" parent="globals/DiveToolsView" pc="268438228" symbol="drawOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="41" lineNum="86" parent="globals/DiveToolsView" pc="268438243" symbol="drawOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="41" lineNum="88" parent="globals/DiveToolsView" pc="268438250" symbol="drawOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="41" lineNum="89" parent="globals/DiveToolsView" pc="268438260" symbol="drawOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="41" lineNum="90" parent="globals/DiveToolsView" pc="268438270" symbol="drawOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="41" lineNum="92" parent="globals/DiveToolsView" pc="268438277" symbol="drawOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="41" lineNum="94" parent="globals/DiveToolsView" pc="268438287" symbol="drawOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="41" lineNum="95" parent="globals/DiveToolsView" pc="268438292" symbol="drawOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="41" lineNum="100" parent="globals/DiveToolsView" pc="268438308" symbol="drawOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="41" lineNum="108" parent="globals/DiveToolsView" pc="268438328" symbol="drawOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="41" lineNum="113" parent="globals/DiveToolsView" pc="268438344" symbol="drawOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="41" lineNum="119" parent="globals/DiveToolsView" pc="268438361" symbol="drawOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="41" lineNum="127" parent="globals/DiveToolsView" pc="268438381" symbol="drawOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="42" lineNum="8" parent="globals/DiveToolsView" pc="268438398" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="42" lineNum="9" parent="globals/DiveToolsView" pc="268438400" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="42" lineNum="10" parent="globals/DiveToolsView" pc="268438412" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="43" lineNum="31" parent="globals/DiveToolsView" pc="268438421" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="43" lineNum="32" parent="globals/DiveToolsView" pc="268438424" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="43" lineNum="33" parent="globals/DiveToolsView" pc="268438433" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="43" lineNum="35" parent="globals/DiveToolsView" pc="268438442" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="43" lineNum="40" parent="globals/DiveToolsView" pc="268438458" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="43" lineNum="42" parent="globals/DiveToolsView" pc="268438466" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="43" lineNum="43" parent="globals/DiveToolsView" pc="268438476" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="43" lineNum="45" parent="globals/DiveToolsView" pc="268438486" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="43" lineNum="46" parent="globals/DiveToolsView" pc="268438496" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="43" lineNum="48" parent="globals/DiveToolsView" pc="268438506" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="43" lineNum="56" parent="globals/DiveToolsView" pc="268438533" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="43" lineNum="64" parent="globals/DiveToolsView" pc="268438561" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsView.mc" id="43" lineNum="72" parent="globals/DiveToolsView" pc="268438589" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="44" lineNum="7" parent="globals/EadDelegate" pc="268438618" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="44" lineNum="8" parent="globals/EadDelegate" pc="268438620" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="44" lineNum="10" parent="globals/EadDelegate" pc="268438632" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="45" lineNum="13" parent="globals/EadDelegate" pc="268438642" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="45" lineNum="14" parent="globals/EadDelegate" pc="268438645" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="45" lineNum="16" parent="globals/EadDelegate" pc="268438654" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="45" lineNum="17" parent="globals/EadDelegate" pc="268438662" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="45" lineNum="18" parent="globals/EadDelegate" pc="268438674" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="45" lineNum="21" parent="globals/EadDelegate" pc="268438679" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="45" lineNum="22" parent="globals/EadDelegate" pc="268438687" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="45" lineNum="23" parent="globals/EadDelegate" pc="268438699" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="45" lineNum="26" parent="globals/EadDelegate" pc="268438704" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="45" lineNum="30" parent="globals/EadDelegate" pc="268438720" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="45" lineNum="31" parent="globals/EadDelegate" pc="268438732" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="45" lineNum="34" parent="globals/EadDelegate" pc="268438737" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="45" lineNum="35" parent="globals/EadDelegate" pc="268438745" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="45" lineNum="39" parent="globals/EadDelegate" pc="268438759" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadDelegate.mc" id="45" lineNum="42" parent="globals/EadDelegate" pc="268438764" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="46" lineNum="96" parent="globals/EadView" pc="268438766" symbol="getOxygenColor"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="46" lineNum="97" parent="globals/EadView" pc="268438769" symbol="getOxygenColor"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="46" lineNum="100" parent="globals/EadView" pc="268438777" symbol="getOxygenColor"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="46" lineNum="101" parent="globals/EadView" pc="268438788" symbol="getOxygenColor"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="46" lineNum="104" parent="globals/EadView" pc="268438797" symbol="getOxygenColor"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="46" lineNum="105" parent="globals/EadView" pc="268438808" symbol="getOxygenColor"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="46" lineNum="108" parent="globals/EadView" pc="268438817" symbol="getOxygenColor"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="47" lineNum="67" parent="globals/EadView" pc="268438823" symbol="calculateEad"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="47" lineNum="68" parent="globals/EadView" pc="268438826" symbol="calculateEad"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="47" lineNum="71" parent="globals/EadView" pc="268438845" symbol="calculateEad"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="47" lineNum="74" parent="globals/EadView" pc="268438855" symbol="calculateEad"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="47" lineNum="79" parent="globals/EadView" pc="268438889" symbol="calculateEad"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="47" lineNum="80" parent="globals/EadView" pc="268438896" symbol="calculateEad"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="47" lineNum="83" parent="globals/EadView" pc="268438902" symbol="calculateEad"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="48" lineNum="86" parent="globals/EadView" pc="268438905" symbol="calculatePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="48" lineNum="87" parent="globals/EadView" pc="268438908" symbol="calculatePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="48" lineNum="90" parent="globals/EadView" pc="268438927" symbol="calculatePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="48" lineNum="93" parent="globals/EadView" pc="268438952" symbol="calculatePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="49" lineNum="253" parent="globals/EadView" pc="268438958" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="49" lineNum="261" parent="globals/EadView" pc="268438961" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="49" lineNum="264" parent="globals/EadView" pc="268438965" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="49" lineNum="267" parent="globals/EadView" pc="268438978" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="49" lineNum="270" parent="globals/EadView" pc="268438993" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="49" lineNum="273" parent="globals/EadView" pc="268439000" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="49" lineNum="277" parent="globals/EadView" pc="268439010" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="49" lineNum="281" parent="globals/EadView" pc="268439020" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="49" lineNum="284" parent="globals/EadView" pc="268439027" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="49" lineNum="285" parent="globals/EadView" pc="268439032" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="49" lineNum="290" parent="globals/EadView" pc="268439045" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="49" lineNum="299" parent="globals/EadView" pc="268439068" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="49" lineNum="304" parent="globals/EadView" pc="268439082" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="49" lineNum="312" parent="globals/EadView" pc="268439108" symbol="drawInputOption"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="50" lineNum="21" parent="globals/EadView" pc="268439125" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="50" lineNum="22" parent="globals/EadView" pc="268439127" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="50" lineNum="23" parent="globals/EadView" pc="268439137" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="50" lineNum="25" parent="globals/EadView" pc="268439152" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="50" lineNum="26" parent="globals/EadView" pc="268439163" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="50" lineNum="29" parent="globals/EadView" pc="268439178" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="50" lineNum="31" parent="globals/EadView" pc="268439193" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="50" lineNum="32" parent="globals/EadView" pc="268439204" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="50" lineNum="36" parent="globals/EadView" pc="268439216" symbol="increaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="51" lineNum="159" parent="globals/EadView" pc="268439228" symbol="drawEadTitle"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="51" lineNum="160" parent="globals/EadView" pc="268439231" symbol="drawEadTitle"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="51" lineNum="163" parent="globals/EadView" pc="268439235" symbol="drawEadTitle"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="51" lineNum="166" parent="globals/EadView" pc="268439248" symbol="drawEadTitle"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="51" lineNum="171" parent="globals/EadView" pc="268439265" symbol="drawEadTitle"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="52" lineNum="39" parent="globals/EadView" pc="268439295" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="52" lineNum="40" parent="globals/EadView" pc="268439297" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="52" lineNum="41" parent="globals/EadView" pc="268439307" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="52" lineNum="43" parent="globals/EadView" pc="268439322" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="52" lineNum="44" parent="globals/EadView" pc="268439333" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="52" lineNum="47" parent="globals/EadView" pc="268439348" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="52" lineNum="49" parent="globals/EadView" pc="268439363" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="52" lineNum="50" parent="globals/EadView" pc="268439374" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="52" lineNum="54" parent="globals/EadView" pc="268439386" symbol="decreaseValue"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="53" lineNum="180" parent="globals/EadView" pc="268439398" symbol="drawEadResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="53" lineNum="181" parent="globals/EadView" pc="268439401" symbol="drawEadResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="53" lineNum="184" parent="globals/EadView" pc="268439405" symbol="drawEadResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="53" lineNum="187" parent="globals/EadView" pc="268439409" symbol="drawEadResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="53" lineNum="190" parent="globals/EadView" pc="268439430" symbol="drawEadResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="53" lineNum="192" parent="globals/EadView" pc="268439437" symbol="drawEadResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="53" lineNum="198" parent="globals/EadView" pc="268439452" symbol="drawEadResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="53" lineNum="204" parent="globals/EadView" pc="268439467" symbol="drawEadResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="53" lineNum="207" parent="globals/EadView" pc="268439480" symbol="drawEadResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="53" lineNum="210" parent="globals/EadView" pc="268439493" symbol="drawEadResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="53" lineNum="212" parent="globals/EadView" pc="268439497" symbol="drawEadResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="53" lineNum="217" parent="globals/EadView" pc="268439507" symbol="drawEadResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="53" lineNum="221" parent="globals/EadView" pc="268439517" symbol="drawEadResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="53" lineNum="225" parent="globals/EadView" pc="268439527" symbol="drawEadResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="53" lineNum="231" parent="globals/EadView" pc="268439540" symbol="drawEadResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="53" lineNum="236" parent="globals/EadView" pc="268439557" symbol="drawEadResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="53" lineNum="244" parent="globals/EadView" pc="268439577" symbol="drawEadResult"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="54" lineNum="10" parent="globals/EadView" pc="268439604" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="54" lineNum="11" parent="globals/EadView" pc="268439606" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="54" lineNum="13" parent="globals/EadView" pc="268439618" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="54" lineNum="14" parent="globals/EadView" pc="268439627" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="54" lineNum="18" parent="globals/EadView" pc="268439636" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="55" lineNum="318" parent="globals/EadView" pc="268439645" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="55" lineNum="319" parent="globals/EadView" pc="268439648" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="55" lineNum="322" parent="globals/EadView" pc="268439651" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="55" lineNum="327" parent="globals/EadView" pc="268439664" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="55" lineNum="328" parent="globals/EadView" pc="268439674" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="55" lineNum="330" parent="globals/EadView" pc="268439684" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="55" lineNum="333" parent="globals/EadView" pc="268439691" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="55" lineNum="338" parent="globals/EadView" pc="268439708" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="55" lineNum="346" parent="globals/EadView" pc="268439734" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="56" lineNum="57" parent="globals/EadView" pc="268439751" symbol="toggleEditMode"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="56" lineNum="58" parent="globals/EadView" pc="268439753" symbol="toggleEditMode"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="56" lineNum="59" parent="globals/EadView" pc="268439763" symbol="toggleEditMode"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="56" lineNum="61" parent="globals/EadView" pc="268439775" symbol="toggleEditMode"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="56" lineNum="64" parent="globals/EadView" pc="268439783" symbol="toggleEditMode"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="57" lineNum="111" parent="globals/EadView" pc="268439795" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="57" lineNum="112" parent="globals/EadView" pc="268439798" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="57" lineNum="113" parent="globals/EadView" pc="268439807" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="57" lineNum="115" parent="globals/EadView" pc="268439816" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="57" lineNum="120" parent="globals/EadView" pc="268439832" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="57" lineNum="122" parent="globals/EadView" pc="268439840" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="57" lineNum="128" parent="globals/EadView" pc="268439864" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="57" lineNum="134" parent="globals/EadView" pc="268439888" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="57" lineNum="143" parent="globals/EadView" pc="268439956" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EadView.mc" id="57" lineNum="152" parent="globals/EadView" pc="268440022" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="58" lineNum="115" parent="globals/ModView" pc="268440047" symbol="drawModWithUnit"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="58" lineNum="116" parent="globals/ModView" pc="268440050" symbol="drawModWithUnit"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="58" lineNum="117" parent="globals/ModView" pc="268440054" symbol="drawModWithUnit"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="58" lineNum="119" parent="globals/ModView" pc="268440058" symbol="drawModWithUnit"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="58" lineNum="120" parent="globals/ModView" pc="268440074" symbol="drawModWithUnit"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="58" lineNum="122" parent="globals/ModView" pc="268440081" symbol="drawModWithUnit"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="58" lineNum="127" parent="globals/ModView" pc="268440096" symbol="drawModWithUnit"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="58" lineNum="132" parent="globals/ModView" pc="268440111" symbol="drawModWithUnit"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="58" lineNum="133" parent="globals/ModView" pc="268440124" symbol="drawModWithUnit"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="58" lineNum="135" parent="globals/ModView" pc="268440137" symbol="drawModWithUnit"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="58" lineNum="136" parent="globals/ModView" pc="268440141" symbol="drawModWithUnit"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="58" lineNum="137" parent="globals/ModView" pc="268440151" symbol="drawModWithUnit"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="58" lineNum="139" parent="globals/ModView" pc="268440161" symbol="drawModWithUnit"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="58" lineNum="141" parent="globals/ModView" pc="268440171" symbol="drawModWithUnit"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="58" lineNum="148" parent="globals/ModView" pc="268440190" symbol="drawModWithUnit"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="58" lineNum="153" parent="globals/ModView" pc="268440207" symbol="drawModWithUnit"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="58" lineNum="161" parent="globals/ModView" pc="268440227" symbol="drawModWithUnit"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="59" lineNum="46" parent="globals/ModView" pc="268440254" symbol="calculateMod"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="59" lineNum="47" parent="globals/ModView" pc="268440257" symbol="calculateMod"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="59" lineNum="50" parent="globals/ModView" pc="268440276" symbol="calculateMod"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="60" lineNum="170" parent="globals/ModView" pc="268440297" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="60" lineNum="171" parent="globals/ModView" pc="268440300" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="60" lineNum="172" parent="globals/ModView" pc="268440304" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="60" lineNum="174" parent="globals/ModView" pc="268440317" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="60" lineNum="175" parent="globals/ModView" pc="268440332" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="60" lineNum="177" parent="globals/ModView" pc="268440339" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="60" lineNum="178" parent="globals/ModView" pc="268440349" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="60" lineNum="179" parent="globals/ModView" pc="268440359" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="60" lineNum="181" parent="globals/ModView" pc="268440366" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="60" lineNum="184" parent="globals/ModView" pc="268440392" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="60" lineNum="189" parent="globals/ModView" pc="268440408" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="60" lineNum="197" parent="globals/ModView" pc="268440428" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="60" lineNum="202" parent="globals/ModView" pc="268440445" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="60" lineNum="210" parent="globals/ModView" pc="268440471" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="61" lineNum="16" parent="globals/ModView" pc="268440488" symbol="increaseOxygen"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="61" lineNum="17" parent="globals/ModView" pc="268440490" symbol="increaseOxygen"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="61" lineNum="19" parent="globals/ModView" pc="268440505" symbol="increaseOxygen"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="61" lineNum="20" parent="globals/ModView" pc="268440516" symbol="increaseOxygen"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="61" lineNum="23" parent="globals/ModView" pc="268440528" symbol="increaseOxygen"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="62" lineNum="36" parent="globals/ModView" pc="268440540" symbol="togglePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="62" lineNum="37" parent="globals/ModView" pc="268440542" symbol="togglePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="62" lineNum="38" parent="globals/ModView" pc="268440556" symbol="togglePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="62" lineNum="40" parent="globals/ModView" pc="268440571" symbol="togglePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="62" lineNum="43" parent="globals/ModView" pc="268440583" symbol="togglePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="63" lineNum="9" parent="globals/ModView" pc="268440595" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="63" lineNum="10" parent="globals/ModView" pc="268440597" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="63" lineNum="12" parent="globals/ModView" pc="268440609" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="63" lineNum="13" parent="globals/ModView" pc="268440618" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="64" lineNum="26" parent="globals/ModView" pc="268440631" symbol="decreaseOxygen"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="64" lineNum="27" parent="globals/ModView" pc="268440633" symbol="decreaseOxygen"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="64" lineNum="29" parent="globals/ModView" pc="268440648" symbol="decreaseOxygen"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="64" lineNum="30" parent="globals/ModView" pc="268440659" symbol="decreaseOxygen"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="64" lineNum="33" parent="globals/ModView" pc="268440671" symbol="decreaseOxygen"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="65" lineNum="216" parent="globals/ModView" pc="268440683" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="65" lineNum="217" parent="globals/ModView" pc="268440686" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="65" lineNum="218" parent="globals/ModView" pc="268440689" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="65" lineNum="220" parent="globals/ModView" pc="268440702" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="65" lineNum="225" parent="globals/ModView" pc="268440719" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="65" lineNum="233" parent="globals/ModView" pc="268440748" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="66" lineNum="55" parent="globals/ModView" pc="268440765" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="66" lineNum="56" parent="globals/ModView" pc="268440768" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="66" lineNum="57" parent="globals/ModView" pc="268440777" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="66" lineNum="58" parent="globals/ModView" pc="268440786" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="66" lineNum="60" parent="globals/ModView" pc="268440794" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="66" lineNum="65" parent="globals/ModView" pc="268440810" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="66" lineNum="67" parent="globals/ModView" pc="268440818" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="66" lineNum="73" parent="globals/ModView" pc="268440842" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="66" lineNum="80" parent="globals/ModView" pc="268440868" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="66" lineNum="86" parent="globals/ModView" pc="268440892" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="67" lineNum="93" parent="globals/ModView" pc="268440917" symbol="drawMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="67" lineNum="94" parent="globals/ModView" pc="268440920" symbol="drawMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="67" lineNum="95" parent="globals/ModView" pc="268440924" symbol="drawMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="67" lineNum="97" parent="globals/ModView" pc="268440937" symbol="drawMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="67" lineNum="101" parent="globals/ModView" pc="268440963" symbol="drawMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\ModView.mc" id="67" lineNum="106" parent="globals/ModView" pc="268440980" symbol="drawMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="68" lineNum="46" parent="globals/BestMixView" pc="268441007" symbol="calculateBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="68" lineNum="47" parent="globals/BestMixView" pc="268441010" symbol="calculateBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="68" lineNum="50" parent="globals/BestMixView" pc="268441035" symbol="calculateBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="68" lineNum="53" parent="globals/BestMixView" pc="268441045" symbol="calculateBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="68" lineNum="56" parent="globals/BestMixView" pc="268441055" symbol="calculateBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="68" lineNum="59" parent="globals/BestMixView" pc="268441064" symbol="calculateBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="68" lineNum="60" parent="globals/BestMixView" pc="268441072" symbol="calculateBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="68" lineNum="63" parent="globals/BestMixView" pc="268441079" symbol="calculateBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="68" lineNum="64" parent="globals/BestMixView" pc="268441087" symbol="calculateBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="68" lineNum="67" parent="globals/BestMixView" pc="268441094" symbol="calculateBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="69" lineNum="106" parent="globals/BestMixView" pc="268441097" symbol="drawDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="69" lineNum="107" parent="globals/BestMixView" pc="268441100" symbol="drawDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="69" lineNum="110" parent="globals/BestMixView" pc="268441104" symbol="drawDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="69" lineNum="113" parent="globals/BestMixView" pc="268441108" symbol="drawDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="69" lineNum="116" parent="globals/BestMixView" pc="268441128" symbol="drawDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="69" lineNum="118" parent="globals/BestMixView" pc="268441135" symbol="drawDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="69" lineNum="124" parent="globals/BestMixView" pc="268441150" symbol="drawDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="69" lineNum="130" parent="globals/BestMixView" pc="268441165" symbol="drawDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="69" lineNum="133" parent="globals/BestMixView" pc="268441178" symbol="drawDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="69" lineNum="136" parent="globals/BestMixView" pc="268441191" symbol="drawDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="69" lineNum="138" parent="globals/BestMixView" pc="268441195" symbol="drawDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="69" lineNum="143" parent="globals/BestMixView" pc="268441205" symbol="drawDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="69" lineNum="147" parent="globals/BestMixView" pc="268441215" symbol="drawDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="69" lineNum="151" parent="globals/BestMixView" pc="268441225" symbol="drawDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="69" lineNum="157" parent="globals/BestMixView" pc="268441238" symbol="drawDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="69" lineNum="162" parent="globals/BestMixView" pc="268441255" symbol="drawDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="69" lineNum="170" parent="globals/BestMixView" pc="268441275" symbol="drawDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="70" lineNum="26" parent="globals/BestMixView" pc="268441302" symbol="decreaseDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="70" lineNum="27" parent="globals/BestMixView" pc="268441304" symbol="decreaseDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="70" lineNum="29" parent="globals/BestMixView" pc="268441319" symbol="decreaseDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="70" lineNum="30" parent="globals/BestMixView" pc="268441330" symbol="decreaseDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="70" lineNum="33" parent="globals/BestMixView" pc="268441342" symbol="decreaseDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="71" lineNum="252" parent="globals/BestMixView" pc="268441354" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="71" lineNum="257" parent="globals/BestMixView" pc="268441357" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="71" lineNum="260" parent="globals/BestMixView" pc="268441361" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="71" lineNum="263" parent="globals/BestMixView" pc="268441374" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="71" lineNum="266" parent="globals/BestMixView" pc="268441389" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="71" lineNum="269" parent="globals/BestMixView" pc="268441396" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="71" lineNum="273" parent="globals/BestMixView" pc="268441406" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="71" lineNum="277" parent="globals/BestMixView" pc="268441416" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="71" lineNum="280" parent="globals/BestMixView" pc="268441423" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="71" lineNum="284" parent="globals/BestMixView" pc="268441449" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="71" lineNum="289" parent="globals/BestMixView" pc="268441465" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="71" lineNum="297" parent="globals/BestMixView" pc="268441485" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="71" lineNum="302" parent="globals/BestMixView" pc="268441502" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="71" lineNum="310" parent="globals/BestMixView" pc="268441528" symbol="drawPpo2Bubble"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="72" lineNum="179" parent="globals/BestMixView" pc="268441545" symbol="drawBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="72" lineNum="180" parent="globals/BestMixView" pc="268441548" symbol="drawBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="72" lineNum="183" parent="globals/BestMixView" pc="268441552" symbol="drawBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="72" lineNum="186" parent="globals/BestMixView" pc="268441556" symbol="drawBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="72" lineNum="188" parent="globals/BestMixView" pc="268441563" symbol="drawBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="72" lineNum="191" parent="globals/BestMixView" pc="268441584" symbol="drawBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="72" lineNum="197" parent="globals/BestMixView" pc="268441599" symbol="drawBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="72" lineNum="203" parent="globals/BestMixView" pc="268441614" symbol="drawBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="72" lineNum="206" parent="globals/BestMixView" pc="268441627" symbol="drawBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="72" lineNum="209" parent="globals/BestMixView" pc="268441640" symbol="drawBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="72" lineNum="211" parent="globals/BestMixView" pc="268441644" symbol="drawBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="72" lineNum="216" parent="globals/BestMixView" pc="268441654" symbol="drawBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="72" lineNum="220" parent="globals/BestMixView" pc="268441664" symbol="drawBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="72" lineNum="224" parent="globals/BestMixView" pc="268441674" symbol="drawBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="72" lineNum="230" parent="globals/BestMixView" pc="268441687" symbol="drawBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="72" lineNum="235" parent="globals/BestMixView" pc="268441704" symbol="drawBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="72" lineNum="243" parent="globals/BestMixView" pc="268441724" symbol="drawBestMix"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="73" lineNum="36" parent="globals/BestMixView" pc="268441751" symbol="togglePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="73" lineNum="37" parent="globals/BestMixView" pc="268441753" symbol="togglePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="73" lineNum="38" parent="globals/BestMixView" pc="268441767" symbol="togglePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="73" lineNum="40" parent="globals/BestMixView" pc="268441782" symbol="togglePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="73" lineNum="43" parent="globals/BestMixView" pc="268441794" symbol="togglePpo2"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="74" lineNum="9" parent="globals/BestMixView" pc="268441806" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="74" lineNum="10" parent="globals/BestMixView" pc="268441808" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="74" lineNum="12" parent="globals/BestMixView" pc="268441820" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="74" lineNum="13" parent="globals/BestMixView" pc="268441829" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="75" lineNum="316" parent="globals/BestMixView" pc="268441842" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="75" lineNum="321" parent="globals/BestMixView" pc="268441845" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="75" lineNum="324" parent="globals/BestMixView" pc="268441848" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="75" lineNum="327" parent="globals/BestMixView" pc="268441861" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="75" lineNum="332" parent="globals/BestMixView" pc="268441878" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="75" lineNum="340" parent="globals/BestMixView" pc="268441907" symbol="drawGuidance"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="76" lineNum="16" parent="globals/BestMixView" pc="268441924" symbol="increaseDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="76" lineNum="17" parent="globals/BestMixView" pc="268441926" symbol="increaseDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="76" lineNum="19" parent="globals/BestMixView" pc="268441941" symbol="increaseDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="76" lineNum="20" parent="globals/BestMixView" pc="268441953" symbol="increaseDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="76" lineNum="23" parent="globals/BestMixView" pc="268441966" symbol="increaseDepth"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="77" lineNum="70" parent="globals/BestMixView" pc="268441978" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="77" lineNum="71" parent="globals/BestMixView" pc="268441981" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="77" lineNum="72" parent="globals/BestMixView" pc="268441990" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="77" lineNum="74" parent="globals/BestMixView" pc="268441999" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="77" lineNum="79" parent="globals/BestMixView" pc="268442015" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="77" lineNum="81" parent="globals/BestMixView" pc="268442023" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="77" lineNum="87" parent="globals/BestMixView" pc="268442047" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="77" lineNum="93" parent="globals/BestMixView" pc="268442071" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\BestMixView.mc" id="77" lineNum="99" parent="globals/BestMixView" pc="268442095" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="78" lineNum="7" parent="globals/EndDelegate" pc="268442120" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="78" lineNum="8" parent="globals/EndDelegate" pc="268442122" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="78" lineNum="10" parent="globals/EndDelegate" pc="268442134" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="79" lineNum="13" parent="globals/EndDelegate" pc="268442144" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="79" lineNum="14" parent="globals/EndDelegate" pc="268442147" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="79" lineNum="16" parent="globals/EndDelegate" pc="268442156" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="79" lineNum="17" parent="globals/EndDelegate" pc="268442164" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="79" lineNum="18" parent="globals/EndDelegate" pc="268442176" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="79" lineNum="21" parent="globals/EndDelegate" pc="268442181" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="79" lineNum="22" parent="globals/EndDelegate" pc="268442189" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="79" lineNum="23" parent="globals/EndDelegate" pc="268442201" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="79" lineNum="26" parent="globals/EndDelegate" pc="268442206" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="79" lineNum="30" parent="globals/EndDelegate" pc="268442222" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="79" lineNum="31" parent="globals/EndDelegate" pc="268442234" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="79" lineNum="34" parent="globals/EndDelegate" pc="268442239" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="79" lineNum="35" parent="globals/EndDelegate" pc="268442247" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="79" lineNum="39" parent="globals/EndDelegate" pc="268442261" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\EndDelegate.mc" id="79" lineNum="42" parent="globals/EndDelegate" pc="268442266" symbol="onKey"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsMenuDelegate.mc" id="80" lineNum="9" parent="globals/DiveToolsMenuDelegate" pc="268442268" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsMenuDelegate.mc" id="80" lineNum="10" parent="globals/DiveToolsMenuDelegate" pc="268442270" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsMenuDelegate.mc" id="81" lineNum="5" parent="globals/DiveToolsMenuDelegate" pc="268442306" symbol="initialize"/>
+        <entry filename="C:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\source\\DiveToolsMenuDelegate.mc" id="81" lineNum="6" parent="globals/DiveToolsMenuDelegate" pc="268442308" symbol="initialize"/>
+        <entry filename="c:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\bin\\gen\\006-B4223-00\\source\\Rez.mcgen" id="82" lineNum="14" parent="globals/Rez/Layouts" pc="268442321" symbol="MainLayout"/>
+        <entry filename="c:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\bin\\gen\\006-B4223-00\\source\\Rez.mcgen" id="82" lineNum="15" parent="globals/Rez/Layouts" pc="268442332" symbol="MainLayout"/>
+        <entry filename="c:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\bin\\gen\\006-B4223-00\\source\\Rez.mcgen" id="82" lineNum="17" parent="globals/Rez/Layouts" pc="268442341" symbol="MainLayout"/>
+        <entry filename="c:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\bin\\gen\\006-B4223-00\\source\\Rez.mcgen" id="82" lineNum="19" parent="globals/Rez/Layouts" pc="268442444" symbol="MainLayout"/>
+        <entry filename="c:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\bin\\gen\\006-B4223-00\\source\\Rez.mcgen" id="82" lineNum="20" parent="globals/Rez/Layouts" pc="268442528" symbol="MainLayout"/>
+        <entry filename="c:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\bin\\gen\\006-B4223-00\\source\\Rez.mcgen" id="82" lineNum="22" parent="globals/Rez/Layouts" pc="268442559" symbol="MainLayout"/>
+        <entry filename="c:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\bin\\gen\\006-B4223-00\\source\\Rez.mcgen" id="83" lineNum="27" parent="globals/Rez/Menus/MainMenu" pc="268442574" symbol="&lt;init&gt;"/>
+        <entry filename="c:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\bin\\gen\\006-B4223-00\\source\\Rez.mcgen" id="84" lineNum="28" parent="globals/Rez/Menus/MainMenu" pc="268442586" symbol="initialize"/>
+        <entry filename="c:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\bin\\gen\\006-B4223-00\\source\\Rez.mcgen" id="84" lineNum="29" parent="globals/Rez/Menus/MainMenu" pc="268442588" symbol="initialize"/>
+        <entry filename="c:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\bin\\gen\\006-B4223-00\\source\\Rez.mcgen" id="84" lineNum="30" parent="globals/Rez/Menus/MainMenu" pc="268442600" symbol="initialize"/>
+        <entry filename="c:\\Users\\filip\\Documents\\Garmin Apps\\DiveTools\\DiveTools\\bin\\gen\\006-B4223-00\\source\\Rez.mcgen" id="84" lineNum="31" parent="globals/Rez/Menus/MainMenu" pc="268442645" symbol="initialize"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="8389346" symbol="text"/>
+        <entry id="40" method="true" symbol="getSelection"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="47" method="true" symbol="calculateMod"/>
+        <entry id="5" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8390740" method="true" symbol="drawTitle"/>
+        <entry id="19" object="true" symbol="ToolView"/>
+        <entry id="62" method="true" symbol="MainLayout"/>
+        <entry id="18" object="true" symbol="ModView"/>
+        <entry id="8" object="true" symbol="BestMixView"/>
+        <entry id="9" object="true" symbol="DiveToolsApp"/>
+        <entry id="11" object="true" symbol="DiveToolsMenuDelegate"/>
+        <entry id="20" method="true" symbol="openSelectedTool"/>
+        <entry id="32" method="true" symbol="drawInputOption"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="28" method="true" symbol="decreaseValue"/>
+        <entry field="true" id="64" symbol="AppName"/>
+        <entry field="true" id="38" symbol="oxygen"/>
+        <entry id="56" method="true" symbol="decreaseDepth"/>
+        <entry id="36" method="true" symbol="increaseValue"/>
+        <entry id="6" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="46" method="true" symbol="toggleEditMode"/>
+        <entry id="52" method="true" symbol="increaseOxygen"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="7" object="true" symbol="BestMixDelegate"/>
+        <entry id="59" method="true" symbol="increaseDepth"/>
+        <entry id="25" method="true" symbol="calculateEnd"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="67" symbol="prompt"/>
+        <entry field="true" id="61" symbol="id_monkey"/>
+        <entry id="13" object="true" symbol="EadDelegate"/>
+        <entry field="true" id="29" symbol="depth"/>
+        <entry id="14" object="true" symbol="EadView"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="17" object="true" symbol="ModDelegate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="68" symbol="mod"/>
+        <entry id="43" method="true" symbol="calculateEad"/>
+        <entry id="37" method="true" symbol="nextEditMode"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="73" symbol="item_2"/>
+        <entry id="72" symbol="item_1"/>
+        <entry id="23" module="true" symbol="Menus"/>
+        <entry id="4" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="50" method="true" symbol="drawModWithUnit"/>
+        <entry id="45" method="true" symbol="drawEadTitle"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="58" method="true" symbol="drawDepth"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="35" symbol="helium"/>
+        <entry id="44" method="true" symbol="drawEadResult"/>
+        <entry field="true" id="24" symbol="tool"/>
+        <entry id="30" method="true" symbol="drawEndResult"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="49" method="true" symbol="drawMix"/>
+        <entry id="63" object="true" symbol="MainMenu"/>
+        <entry id="12" object="true" symbol="DiveToolsView"/>
+        <entry id="41" method="true" symbol="moveSelection"/>
+        <entry id="48" method="true" symbol="decreaseOxygen"/>
+        <entry field="true" id="33" symbol="editMode"/>
+        <entry id="69" symbol="bestMix"/>
+        <entry id="71" symbol="end"/>
+        <entry id="26" method="true" symbol="calculateNitrogen"/>
+        <entry id="27" method="true" symbol="calculatePpo2"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="42" symbol="selected"/>
+        <entry id="55" method="true" symbol="calculateBestMix"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="70" symbol="ead"/>
+        <entry field="true" id="60" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="16" object="true" symbol="EndView"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="53" symbol="ppo2"/>
+        <entry id="57" method="true" symbol="drawBestMix"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="31" method="true" symbol="drawGuidance"/>
+        <entry field="true" id="21" symbol="view"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389109" method="true" symbol="onMenuItem"/>
+        <entry field="true" id="8389347" symbol="color"/>
+        <entry id="51" method="true" symbol="drawPpo2Bubble"/>
+        <entry id="15" object="true" symbol="EndDelegate"/>
+        <entry id="8389097" method="true" symbol="onKey"/>
+        <entry id="22" module="true" symbol="Layouts"/>
+        <entry id="34" method="true" symbol="getOxygenColor"/>
+        <entry id="39" method="true" symbol="drawOption"/>
+        <entry id="10" object="true" symbol="DiveToolsDelegate"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="54" method="true" symbol="togglePpo2"/>
+        <entry field="true" id="66" symbol="menu_label_2"/>
+        <entry field="true" id="65" symbol="menu_label_1"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435659" name="viewRef" stackId="1" startPc="268435636"/>
+        <entry endPc="268435946" name="selected" stackId="1" startPc="268435663"/>
+        <entry endPc="268435739" name="modView" stackId="2" startPc="268435683"/>
+        <entry endPc="268435807" name="bestMixView" stackId="3" startPc="268435751"/>
+        <entry endPc="268435875" name="eadView" stackId="4" startPc="268435819"/>
+        <entry endPc="268435943" name="endView" stackId="5" startPc="268435887"/>
+        <entry arg="true" endPc="268436047" name="keyEvent" stackId="1" startPc="268435948"/>
+        <entry endPc="268436047" name="key" stackId="2" startPc="268435951"/>
+        <entry endPc="268436103" name="view" stackId="1" startPc="268436051"/>
+        <entry arg="true" endPc="268436142" name="viewRef" stackId="1" startPc="268436119"/>
+        <entry arg="true" endPc="268436266" name="keyEvent" stackId="1" startPc="268436143"/>
+        <entry endPc="268436266" name="key" stackId="2" startPc="268436146"/>
+        <entry arg="true" endPc="268436290" name="toolId" stackId="1" startPc="268436267"/>
+        <entry arg="true" endPc="268436457" name="dc" stackId="1" startPc="268436291"/>
+        <entry endPc="268436456" name="title" stackId="2" startPc="268436294"/>
+        <entry arg="true" endPc="268436481" name="viewRef" stackId="1" startPc="268436458"/>
+        <entry arg="true" endPc="268436605" name="keyEvent" stackId="1" startPc="268436482"/>
+        <entry endPc="268436605" name="key" stackId="2" startPc="268436485"/>
+        <entry endPc="268436662" name="currentPpo2" stackId="1" startPc="268436609"/>
+        <entry arg="true" endPc="268436746" name="dc" stackId="1" startPc="268436680"/>
+        <entry arg="true" endPc="268436746" name="centerX" stackId="2" startPc="268436680"/>
+        <entry arg="true" endPc="268436746" name="centerY" stackId="3" startPc="268436680"/>
+        <entry endPc="268436745" name="font" stackId="4" startPc="268436683"/>
+        <entry endPc="268436745" name="fontHeight" stackId="5" startPc="268436683"/>
+        <entry endPc="268436799" name="oxygenFraction" stackId="1" startPc="268436750"/>
+        <entry endPc="268436799" name="ambientPressure" stackId="2" startPc="268436750"/>
+        <entry arg="true" endPc="268436966" name="dc" stackId="1" startPc="268436800"/>
+        <entry arg="true" endPc="268436966" name="centerX" stackId="2" startPc="268436800"/>
+        <entry arg="true" endPc="268436966" name="centerY" stackId="3" startPc="268436800"/>
+        <entry arg="true" endPc="268436966" name="text" stackId="4" startPc="268436800"/>
+        <entry arg="true" endPc="268436966" name="isSelected" stackId="5" startPc="268436800"/>
+        <entry arg="true" endPc="268436966" name="textColor" stackId="6" startPc="268436800"/>
+        <entry endPc="268436965" name="font" stackId="7" startPc="268436803"/>
+        <entry endPc="268436965" name="fontHeight" stackId="8" startPc="268436803"/>
+        <entry endPc="268436965" name="bubbleWidth" stackId="9" startPc="268436803"/>
+        <entry endPc="268436965" name="bubbleHeight" stackId="10" startPc="268436803"/>
+        <entry endPc="268436965" name="bubbleX" stackId="11" startPc="268436803"/>
+        <entry endPc="268436965" name="bubbleY" stackId="12" startPc="268436803"/>
+        <entry endPc="268436965" name="bubbleRadius" stackId="13" startPc="268436803"/>
+        <entry endPc="268437424" name="nitrogenFraction" stackId="1" startPc="268437355"/>
+        <entry endPc="268437424" name="end" stackId="2" startPc="268437355"/>
+        <entry arg="true" endPc="268437601" name="dc" stackId="1" startPc="268437475"/>
+        <entry arg="true" endPc="268437601" name="centerX" stackId="2" startPc="268437475"/>
+        <entry arg="true" endPc="268437601" name="centerY" stackId="3" startPc="268437475"/>
+        <entry endPc="268437600" name="font" stackId="4" startPc="268437478"/>
+        <entry endPc="268437600" name="fontHeight" stackId="5" startPc="268437478"/>
+        <entry endPc="268437600" name="text" stackId="6" startPc="268437478"/>
+        <entry arg="true" endPc="268437920" name="dc" stackId="1" startPc="268437602"/>
+        <entry endPc="268437919" name="width" stackId="2" startPc="268437605"/>
+        <entry endPc="268437919" name="height" stackId="3" startPc="268437605"/>
+        <entry arg="true" endPc="268438126" name="dc" stackId="1" startPc="268437921"/>
+        <entry arg="true" endPc="268438126" name="centerX" stackId="2" startPc="268437921"/>
+        <entry arg="true" endPc="268438126" name="centerY" stackId="3" startPc="268437921"/>
+        <entry endPc="268438125" name="numberFont" stackId="4" startPc="268437924"/>
+        <entry endPc="268438125" name="unitFont" stackId="5" startPc="268437924"/>
+        <entry endPc="268438125" name="numberText" stackId="6" startPc="268437924"/>
+        <entry endPc="268438125" name="unitText" stackId="7" startPc="268437924"/>
+        <entry endPc="268438125" name="numberWidth" stackId="8" startPc="268437924"/>
+        <entry endPc="268438125" name="unitWidth" stackId="9" startPc="268437924"/>
+        <entry endPc="268438125" name="numberHeight" stackId="10" startPc="268437924"/>
+        <entry endPc="268438125" name="unitHeight" stackId="11" startPc="268437924"/>
+        <entry endPc="268438125" name="gap" stackId="12" startPc="268437924"/>
+        <entry endPc="268438125" name="totalWidth" stackId="13" startPc="268437924"/>
+        <entry endPc="268438125" name="startX" stackId="14" startPc="268437924"/>
+        <entry endPc="268438125" name="numberY" stackId="15" startPc="268437924"/>
+        <entry endPc="268438125" name="unitY" stackId="16" startPc="268437924"/>
+        <entry arg="true" endPc="268438207" name="direction" stackId="1" startPc="268438135"/>
+        <entry arg="true" endPc="268438397" name="dc" stackId="1" startPc="268438208"/>
+        <entry arg="true" endPc="268438397" name="centerX" stackId="2" startPc="268438208"/>
+        <entry arg="true" endPc="268438397" name="centerY" stackId="3" startPc="268438208"/>
+        <entry arg="true" endPc="268438397" name="label" stackId="4" startPc="268438208"/>
+        <entry arg="true" endPc="268438397" name="isSelected" stackId="5" startPc="268438208"/>
+        <entry endPc="268438396" name="font" stackId="6" startPc="268438211"/>
+        <entry endPc="268438396" name="fontHeight" stackId="7" startPc="268438211"/>
+        <entry endPc="268438396" name="bubbleWidth" stackId="8" startPc="268438211"/>
+        <entry endPc="268438396" name="bubbleHeight" stackId="9" startPc="268438211"/>
+        <entry endPc="268438396" name="bubbleX" stackId="10" startPc="268438211"/>
+        <entry endPc="268438396" name="bubbleY" stackId="11" startPc="268438211"/>
+        <entry endPc="268438396" name="bubbleRadius" stackId="12" startPc="268438211"/>
+        <entry endPc="268438396" name="textY" stackId="13" startPc="268438211"/>
+        <entry arg="true" endPc="268438617" name="dc" stackId="1" startPc="268438421"/>
+        <entry endPc="268438616" name="screenWidth" stackId="2" startPc="268438424"/>
+        <entry endPc="268438616" name="screenHeight" stackId="3" startPc="268438424"/>
+        <entry endPc="268438616" name="leftX" stackId="4" startPc="268438424"/>
+        <entry endPc="268438616" name="rightX" stackId="5" startPc="268438424"/>
+        <entry endPc="268438616" name="topY" stackId="6" startPc="268438424"/>
+        <entry endPc="268438616" name="bottomY" stackId="7" startPc="268438424"/>
+        <entry arg="true" endPc="268438641" name="viewRef" stackId="1" startPc="268438618"/>
+        <entry arg="true" endPc="268438765" name="keyEvent" stackId="1" startPc="268438642"/>
+        <entry endPc="268438765" name="key" stackId="2" startPc="268438645"/>
+        <entry endPc="268438822" name="currentPpo2" stackId="1" startPc="268438769"/>
+        <entry endPc="268438904" name="oxygenFraction" stackId="1" startPc="268438826"/>
+        <entry endPc="268438904" name="nitrogenFraction" stackId="2" startPc="268438826"/>
+        <entry endPc="268438904" name="ead" stackId="3" startPc="268438826"/>
+        <entry endPc="268438957" name="oxygenFraction" stackId="1" startPc="268438908"/>
+        <entry endPc="268438957" name="ambientPressure" stackId="2" startPc="268438908"/>
+        <entry arg="true" endPc="268439124" name="dc" stackId="1" startPc="268438958"/>
+        <entry arg="true" endPc="268439124" name="centerX" stackId="2" startPc="268438958"/>
+        <entry arg="true" endPc="268439124" name="centerY" stackId="3" startPc="268438958"/>
+        <entry arg="true" endPc="268439124" name="text" stackId="4" startPc="268438958"/>
+        <entry arg="true" endPc="268439124" name="isSelected" stackId="5" startPc="268438958"/>
+        <entry arg="true" endPc="268439124" name="textColor" stackId="6" startPc="268438958"/>
+        <entry endPc="268439123" name="font" stackId="7" startPc="268438961"/>
+        <entry endPc="268439123" name="fontHeight" stackId="8" startPc="268438961"/>
+        <entry endPc="268439123" name="bubbleWidth" stackId="9" startPc="268438961"/>
+        <entry endPc="268439123" name="bubbleHeight" stackId="10" startPc="268438961"/>
+        <entry endPc="268439123" name="bubbleX" stackId="11" startPc="268438961"/>
+        <entry endPc="268439123" name="bubbleY" stackId="12" startPc="268438961"/>
+        <entry endPc="268439123" name="bubbleRadius" stackId="13" startPc="268438961"/>
+        <entry arg="true" endPc="268439294" name="dc" stackId="1" startPc="268439228"/>
+        <entry arg="true" endPc="268439294" name="centerX" stackId="2" startPc="268439228"/>
+        <entry arg="true" endPc="268439294" name="centerY" stackId="3" startPc="268439228"/>
+        <entry endPc="268439293" name="font" stackId="4" startPc="268439231"/>
+        <entry endPc="268439293" name="fontHeight" stackId="5" startPc="268439231"/>
+        <entry arg="true" endPc="268439603" name="dc" stackId="1" startPc="268439398"/>
+        <entry arg="true" endPc="268439603" name="centerX" stackId="2" startPc="268439398"/>
+        <entry arg="true" endPc="268439603" name="centerY" stackId="3" startPc="268439398"/>
+        <entry endPc="268439602" name="numberFont" stackId="4" startPc="268439401"/>
+        <entry endPc="268439602" name="unitFont" stackId="5" startPc="268439401"/>
+        <entry endPc="268439602" name="numberText" stackId="6" startPc="268439401"/>
+        <entry endPc="268439602" name="unitText" stackId="7" startPc="268439401"/>
+        <entry endPc="268439602" name="numberWidth" stackId="8" startPc="268439401"/>
+        <entry endPc="268439602" name="unitWidth" stackId="9" startPc="268439401"/>
+        <entry endPc="268439602" name="numberHeight" stackId="10" startPc="268439401"/>
+        <entry endPc="268439602" name="unitHeight" stackId="11" startPc="268439401"/>
+        <entry endPc="268439602" name="gap" stackId="12" startPc="268439401"/>
+        <entry endPc="268439602" name="totalWidth" stackId="13" startPc="268439401"/>
+        <entry endPc="268439602" name="startX" stackId="14" startPc="268439401"/>
+        <entry endPc="268439602" name="numberY" stackId="15" startPc="268439401"/>
+        <entry endPc="268439602" name="unitY" stackId="16" startPc="268439401"/>
+        <entry arg="true" endPc="268439750" name="dc" stackId="1" startPc="268439645"/>
+        <entry arg="true" endPc="268439750" name="centerX" stackId="2" startPc="268439645"/>
+        <entry arg="true" endPc="268439750" name="centerY" stackId="3" startPc="268439645"/>
+        <entry endPc="268439749" name="font" stackId="4" startPc="268439648"/>
+        <entry endPc="268439749" name="fontHeight" stackId="5" startPc="268439648"/>
+        <entry endPc="268439749" name="text" stackId="6" startPc="268439648"/>
+        <entry arg="true" endPc="268440046" name="dc" stackId="1" startPc="268439795"/>
+        <entry endPc="268440045" name="width" stackId="2" startPc="268439798"/>
+        <entry endPc="268440045" name="height" stackId="3" startPc="268439798"/>
+        <entry arg="true" endPc="268440253" name="dc" stackId="1" startPc="268440047"/>
+        <entry arg="true" endPc="268440253" name="centerX" stackId="2" startPc="268440047"/>
+        <entry arg="true" endPc="268440253" name="centerY" stackId="3" startPc="268440047"/>
+        <entry arg="true" endPc="268440253" name="mod" stackId="4" startPc="268440047"/>
+        <entry endPc="268440252" name="numberFont" stackId="5" startPc="268440050"/>
+        <entry endPc="268440252" name="unitFont" stackId="6" startPc="268440050"/>
+        <entry endPc="268440252" name="numberText" stackId="7" startPc="268440050"/>
+        <entry endPc="268440252" name="unitText" stackId="8" startPc="268440050"/>
+        <entry endPc="268440252" name="numberWidth" stackId="9" startPc="268440050"/>
+        <entry endPc="268440252" name="unitWidth" stackId="10" startPc="268440050"/>
+        <entry endPc="268440252" name="numberHeight" stackId="11" startPc="268440050"/>
+        <entry endPc="268440252" name="unitHeight" stackId="12" startPc="268440050"/>
+        <entry endPc="268440252" name="gap" stackId="13" startPc="268440050"/>
+        <entry endPc="268440252" name="totalWidth" stackId="14" startPc="268440050"/>
+        <entry endPc="268440252" name="startX" stackId="15" startPc="268440050"/>
+        <entry endPc="268440252" name="numberY" stackId="16" startPc="268440050"/>
+        <entry endPc="268440252" name="unitY" stackId="17" startPc="268440050"/>
+        <entry endPc="268440296" name="oxygenFraction" stackId="1" startPc="268440257"/>
+        <entry arg="true" endPc="268440487" name="dc" stackId="1" startPc="268440297"/>
+        <entry arg="true" endPc="268440487" name="centerX" stackId="2" startPc="268440297"/>
+        <entry arg="true" endPc="268440487" name="centerY" stackId="3" startPc="268440297"/>
+        <entry endPc="268440486" name="font" stackId="4" startPc="268440300"/>
+        <entry endPc="268440486" name="fontHeight" stackId="5" startPc="268440300"/>
+        <entry endPc="268440486" name="bubbleWidth" stackId="6" startPc="268440300"/>
+        <entry endPc="268440486" name="bubbleHeight" stackId="7" startPc="268440300"/>
+        <entry endPc="268440486" name="bubbleX" stackId="8" startPc="268440300"/>
+        <entry endPc="268440486" name="bubbleY" stackId="9" startPc="268440300"/>
+        <entry endPc="268440486" name="bubbleRadius" stackId="10" startPc="268440300"/>
+        <entry endPc="268440486" name="ppo2Text" stackId="11" startPc="268440300"/>
+        <entry arg="true" endPc="268440764" name="dc" stackId="1" startPc="268440683"/>
+        <entry arg="true" endPc="268440764" name="centerX" stackId="2" startPc="268440683"/>
+        <entry arg="true" endPc="268440764" name="centerY" stackId="3" startPc="268440683"/>
+        <entry endPc="268440763" name="font" stackId="4" startPc="268440686"/>
+        <entry endPc="268440763" name="fontHeight" stackId="5" startPc="268440686"/>
+        <entry arg="true" endPc="268440916" name="dc" stackId="1" startPc="268440765"/>
+        <entry endPc="268440915" name="width" stackId="2" startPc="268440768"/>
+        <entry endPc="268440915" name="height" stackId="3" startPc="268440768"/>
+        <entry endPc="268440915" name="mod" stackId="4" startPc="268440768"/>
+        <entry arg="true" endPc="268441006" name="dc" stackId="1" startPc="268440917"/>
+        <entry arg="true" endPc="268441006" name="centerX" stackId="2" startPc="268440917"/>
+        <entry arg="true" endPc="268441006" name="centerY" stackId="3" startPc="268440917"/>
+        <entry endPc="268441005" name="font" stackId="4" startPc="268440920"/>
+        <entry endPc="268441005" name="fontHeight" stackId="5" startPc="268440920"/>
+        <entry endPc="268441005" name="mixText" stackId="6" startPc="268440920"/>
+        <entry endPc="268441096" name="ambientPressure" stackId="1" startPc="268441010"/>
+        <entry endPc="268441096" name="oxygenFraction" stackId="2" startPc="268441010"/>
+        <entry endPc="268441096" name="oxygenPercent" stackId="3" startPc="268441010"/>
+        <entry endPc="268441096" name="bestMix" stackId="4" startPc="268441010"/>
+        <entry arg="true" endPc="268441301" name="dc" stackId="1" startPc="268441097"/>
+        <entry arg="true" endPc="268441301" name="centerX" stackId="2" startPc="268441097"/>
+        <entry arg="true" endPc="268441301" name="centerY" stackId="3" startPc="268441097"/>
+        <entry endPc="268441300" name="numberFont" stackId="4" startPc="268441100"/>
+        <entry endPc="268441300" name="unitFont" stackId="5" startPc="268441100"/>
+        <entry endPc="268441300" name="numberText" stackId="6" startPc="268441100"/>
+        <entry endPc="268441300" name="unitText" stackId="7" startPc="268441100"/>
+        <entry endPc="268441300" name="numberWidth" stackId="8" startPc="268441100"/>
+        <entry endPc="268441300" name="unitWidth" stackId="9" startPc="268441100"/>
+        <entry endPc="268441300" name="numberHeight" stackId="10" startPc="268441100"/>
+        <entry endPc="268441300" name="unitHeight" stackId="11" startPc="268441100"/>
+        <entry endPc="268441300" name="gap" stackId="12" startPc="268441100"/>
+        <entry endPc="268441300" name="totalWidth" stackId="13" startPc="268441100"/>
+        <entry endPc="268441300" name="startX" stackId="14" startPc="268441100"/>
+        <entry endPc="268441300" name="numberY" stackId="15" startPc="268441100"/>
+        <entry endPc="268441300" name="unitY" stackId="16" startPc="268441100"/>
+        <entry arg="true" endPc="268441544" name="dc" stackId="1" startPc="268441354"/>
+        <entry arg="true" endPc="268441544" name="centerX" stackId="2" startPc="268441354"/>
+        <entry arg="true" endPc="268441544" name="centerY" stackId="3" startPc="268441354"/>
+        <entry endPc="268441543" name="font" stackId="4" startPc="268441357"/>
+        <entry endPc="268441543" name="fontHeight" stackId="5" startPc="268441357"/>
+        <entry endPc="268441543" name="bubbleWidth" stackId="6" startPc="268441357"/>
+        <entry endPc="268441543" name="bubbleHeight" stackId="7" startPc="268441357"/>
+        <entry endPc="268441543" name="bubbleX" stackId="8" startPc="268441357"/>
+        <entry endPc="268441543" name="bubbleY" stackId="9" startPc="268441357"/>
+        <entry endPc="268441543" name="bubbleRadius" stackId="10" startPc="268441357"/>
+        <entry endPc="268441543" name="ppo2Text" stackId="11" startPc="268441357"/>
+        <entry arg="true" endPc="268441750" name="dc" stackId="1" startPc="268441545"/>
+        <entry arg="true" endPc="268441750" name="centerX" stackId="2" startPc="268441545"/>
+        <entry arg="true" endPc="268441750" name="centerY" stackId="3" startPc="268441545"/>
+        <entry endPc="268441749" name="labelFont" stackId="4" startPc="268441548"/>
+        <entry endPc="268441749" name="numberFont" stackId="5" startPc="268441548"/>
+        <entry endPc="268441749" name="labelText" stackId="6" startPc="268441548"/>
+        <entry endPc="268441749" name="numberText" stackId="7" startPc="268441548"/>
+        <entry endPc="268441749" name="labelWidth" stackId="8" startPc="268441548"/>
+        <entry endPc="268441749" name="numberWidth" stackId="9" startPc="268441548"/>
+        <entry endPc="268441749" name="labelHeight" stackId="10" startPc="268441548"/>
+        <entry endPc="268441749" name="numberHeight" stackId="11" startPc="268441548"/>
+        <entry endPc="268441749" name="gap" stackId="12" startPc="268441548"/>
+        <entry endPc="268441749" name="totalWidth" stackId="13" startPc="268441548"/>
+        <entry endPc="268441749" name="startX" stackId="14" startPc="268441548"/>
+        <entry endPc="268441749" name="numberY" stackId="15" startPc="268441548"/>
+        <entry endPc="268441749" name="labelY" stackId="16" startPc="268441548"/>
+        <entry arg="true" endPc="268441923" name="dc" stackId="1" startPc="268441842"/>
+        <entry arg="true" endPc="268441923" name="centerX" stackId="2" startPc="268441842"/>
+        <entry arg="true" endPc="268441923" name="centerY" stackId="3" startPc="268441842"/>
+        <entry endPc="268441922" name="font" stackId="4" startPc="268441845"/>
+        <entry endPc="268441922" name="fontHeight" stackId="5" startPc="268441845"/>
+        <entry arg="true" endPc="268442119" name="dc" stackId="1" startPc="268441978"/>
+        <entry endPc="268442118" name="width" stackId="2" startPc="268441981"/>
+        <entry endPc="268442118" name="height" stackId="3" startPc="268441981"/>
+        <entry arg="true" endPc="268442143" name="viewRef" stackId="1" startPc="268442120"/>
+        <entry arg="true" endPc="268442267" name="keyEvent" stackId="1" startPc="268442144"/>
+        <entry endPc="268442267" name="key" stackId="2" startPc="268442147"/>
+        <entry arg="true" endPc="268442305" name="item" stackId="1" startPc="268442268"/>
+        <entry arg="true" endPc="268442573" name="dc" stackId="1" startPc="268442321"/>
+        <entry endPc="268442573" name="rez_cmp_local_var_dc_getWidth" stackId="2" startPc="268442332"/>
+        <entry endPc="268442573" name="rez_cmp_local_text_1193959466" stackId="3" startPc="268442332"/>
+        <entry endPc="268442573" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268442332"/>
+    </localVars>
+    <deviceInfo deviceVersion="3d0fb192a2cf01699aefd0f384af3f527e5885bd" partNumber="006-B4223-00"/>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_2"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_1"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="prompt"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_monkey"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="67" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/DiveToolsDelegate" offset="224" parentId="globals" symbolId="DiveToolsDelegate" type="class"/>
+        <dataEntry label="globals/DiveToolsApp" offset="295" parentId="globals" symbolId="DiveToolsApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="348" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/BestMixDelegate" offset="410" parentId="globals" symbolId="BestMixDelegate" type="class"/>
+        <dataEntry label="globals/ToolView" offset="472" parentId="globals" symbolId="ToolView" type="class"/>
+        <dataEntry label="globals/ModDelegate" offset="534" parentId="globals" symbolId="ModDelegate" type="class"/>
+        <dataEntry label="globals/EndView" offset="596" parentId="globals" symbolId="EndView" type="class"/>
+        <dataEntry label="globals/DiveToolsView" offset="784" parentId="globals" symbolId="DiveToolsView" type="class"/>
+        <dataEntry label="globals/EadDelegate" offset="873" parentId="globals" symbolId="EadDelegate" type="class"/>
+        <dataEntry label="globals/EadView" offset="935" parentId="globals" symbolId="EadView" type="class"/>
+        <dataEntry label="globals/ModView" offset="1105" parentId="globals" symbolId="ModView" type="class"/>
+        <dataEntry label="globals/BestMixView" offset="1248" parentId="globals" symbolId="BestMixView" type="class"/>
+        <dataEntry label="globals/EndDelegate" offset="1391" parentId="globals" symbolId="EndDelegate" type="class"/>
+        <dataEntry label="globals/DiveToolsMenuDelegate" offset="1453" parentId="globals" symbolId="DiveToolsMenuDelegate" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="1506" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="1550" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="1585" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="1620" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Rez/Menus/MainMenu" offset="1682" parentId="Menus" symbolId="MainMenu" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435471" name="&lt;init&gt;" parent="DiveToolsDelegate" startPc="268435460">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435483" name="&lt;init&gt;" parent="DiveToolsApp" startPc="268435472">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435503" name="&lt;init&gt;" parent="Rez" startPc="268435484">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435515" name="&lt;init&gt;" parent="BestMixDelegate" startPc="268435504">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435527" name="&lt;init&gt;" parent="ToolView" startPc="268435516">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435539" name="&lt;init&gt;" parent="ModDelegate" startPc="268435528">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435551" name="&lt;init&gt;" parent="EndView" startPc="268435540">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435563" name="&lt;init&gt;" parent="DiveToolsView" startPc="268435552">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435575" name="&lt;init&gt;" parent="EadDelegate" startPc="268435564">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435587" name="&lt;init&gt;" parent="EadView" startPc="268435576">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435599" name="&lt;init&gt;" parent="ModView" startPc="268435588">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435611" name="&lt;init&gt;" parent="BestMixView" startPc="268435600">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435623" name="&lt;init&gt;" parent="EndDelegate" startPc="268435612">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435635" name="&lt;init&gt;" parent="DiveToolsMenuDelegate" startPc="268435624">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435659" name="initialize" parent="DiveToolsDelegate" startPc="268435636">
+            <param id="viewRef"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435947" name="openSelectedTool" parent="DiveToolsDelegate" startPc="268435660">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436047" name="onKey" parent="DiveToolsDelegate" startPc="268435948">
+            <param id="keyEvent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436103" name="getInitialView" parent="DiveToolsApp" startPc="268436048">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436118" name="initialize" parent="DiveToolsApp" startPc="268436104">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436142" name="initialize" parent="BestMixDelegate" startPc="268436119">
+            <param id="viewRef"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436266" name="onKey" parent="BestMixDelegate" startPc="268436143">
+            <param id="keyEvent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436290" name="initialize" parent="ToolView" startPc="268436267">
+            <param id="toolId"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436457" name="onUpdate" parent="ToolView" startPc="268436291">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436481" name="initialize" parent="ModDelegate" startPc="268436458">
+            <param id="viewRef"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436605" name="onKey" parent="ModDelegate" startPc="268436482">
+            <param id="keyEvent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436662" name="getOxygenColor" parent="EndView" startPc="268436606">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436679" name="calculateNitrogen" parent="EndView" startPc="268436663">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436746" name="drawTitle" parent="EndView" startPc="268436680">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436799" name="calculatePpo2" parent="EndView" startPc="268436747">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436966" name="drawInputOption" parent="EndView" startPc="268436800">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <param id="text"/>
+            <param id="isSelected"/>
+            <param id="textColor"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437017" name="nextEditMode" parent="EndView" startPc="268436967">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437198" name="increaseValue" parent="EndView" startPc="268437018">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437351" name="decreaseValue" parent="EndView" startPc="268437199">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437424" name="calculateEnd" parent="EndView" startPc="268437352">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437474" name="initialize" parent="EndView" startPc="268437425">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437601" name="drawGuidance" parent="EndView" startPc="268437475">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437920" name="onUpdate" parent="EndView" startPc="268437602">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438126" name="drawEndResult" parent="EndView" startPc="268437921">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438134" name="getSelection" parent="DiveToolsView" startPc="268438127">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438207" name="moveSelection" parent="DiveToolsView" startPc="268438135">
+            <param id="direction"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438397" name="drawOption" parent="DiveToolsView" startPc="268438208">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <param id="label"/>
+            <param id="isSelected"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438420" name="initialize" parent="DiveToolsView" startPc="268438398">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438617" name="onUpdate" parent="DiveToolsView" startPc="268438421">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438641" name="initialize" parent="EadDelegate" startPc="268438618">
+            <param id="viewRef"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438765" name="onKey" parent="EadDelegate" startPc="268438642">
+            <param id="keyEvent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438822" name="getOxygenColor" parent="EadView" startPc="268438766">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438904" name="calculateEad" parent="EadView" startPc="268438823">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438957" name="calculatePpo2" parent="EadView" startPc="268438905">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439124" name="drawInputOption" parent="EadView" startPc="268438958">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <param id="text"/>
+            <param id="isSelected"/>
+            <param id="textColor"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439227" name="increaseValue" parent="EadView" startPc="268439125">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439294" name="drawEadTitle" parent="EadView" startPc="268439228">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439397" name="decreaseValue" parent="EadView" startPc="268439295">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439603" name="drawEadResult" parent="EadView" startPc="268439398">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439644" name="initialize" parent="EadView" startPc="268439604">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439750" name="drawGuidance" parent="EadView" startPc="268439645">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439794" name="toggleEditMode" parent="EadView" startPc="268439751">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440046" name="onUpdate" parent="EadView" startPc="268439795">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440253" name="drawModWithUnit" parent="ModView" startPc="268440047">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <param id="mod"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440296" name="calculateMod" parent="ModView" startPc="268440254">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440487" name="drawPpo2Bubble" parent="ModView" startPc="268440297">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440539" name="increaseOxygen" parent="ModView" startPc="268440488">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440594" name="togglePpo2" parent="ModView" startPc="268440540">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440630" name="initialize" parent="ModView" startPc="268440595">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440682" name="decreaseOxygen" parent="ModView" startPc="268440631">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440764" name="drawGuidance" parent="ModView" startPc="268440683">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268440916" name="onUpdate" parent="ModView" startPc="268440765">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441006" name="drawMix" parent="ModView" startPc="268440917">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441096" name="calculateBestMix" parent="BestMixView" startPc="268441007">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441301" name="drawDepth" parent="BestMixView" startPc="268441097">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441353" name="decreaseDepth" parent="BestMixView" startPc="268441302">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441544" name="drawPpo2Bubble" parent="BestMixView" startPc="268441354">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441750" name="drawBestMix" parent="BestMixView" startPc="268441545">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441805" name="togglePpo2" parent="BestMixView" startPc="268441751">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441841" name="initialize" parent="BestMixView" startPc="268441806">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441923" name="drawGuidance" parent="BestMixView" startPc="268441842">
+            <param id="dc"/>
+            <param id="centerX"/>
+            <param id="centerY"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441977" name="increaseDepth" parent="BestMixView" startPc="268441924">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442119" name="onUpdate" parent="BestMixView" startPc="268441978">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442143" name="initialize" parent="EndDelegate" startPc="268442120">
+            <param id="viewRef"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442267" name="onKey" parent="EndDelegate" startPc="268442144">
+            <param id="keyEvent"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442305" name="onMenuItem" parent="DiveToolsMenuDelegate" startPc="268442268">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442320" name="initialize" parent="DiveToolsMenuDelegate" startPc="268442306">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442573" name="MainLayout" parent="Layouts" startPc="268442321">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442585" name="&lt;init&gt;" parent="MainMenu" startPc="268442574">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268442690" name="initialize" parent="MainMenu" startPc="268442586">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

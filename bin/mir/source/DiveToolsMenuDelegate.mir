@@ -1,0 +1,47 @@
+[ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsMenuDelegate.mc"; @line = 1; @symbol_usingdef<0> = [Toybox,1,6,12]; @symbol_usingdef<1> = [WatchUi,1,13,20]; ]
+using Toybox.WatchUi;
+[ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsMenuDelegate.mc"; @line = 3; @symbol_classdef = [DiveToolsMenuDelegate,3,6,27]; @symbol_extends<0> = [WatchUi,3,36,43]; @symbol_extends<1> = [MenuInputDelegate,3,44,61]; ]
+class DiveToolsMenuDelegate extends WatchUi.MenuInputDelegate {
+    [ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsMenuDelegate.mc"; @line = 3; ]
+    <init> {
+    }
+    [ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsMenuDelegate.mc"; @line = 3; ]
+    static
+    <init> {
+    }
+    [ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsMenuDelegate.mc"; @line = 5; @symbol_functiondef = [initialize,5,13,23]; ]
+    function initialize() as Void {
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsMenuDelegate_mc_5_26_7_4_start:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsMenuDelegate.mc" 6 8 ]
+        symbol [ MenuInputDelegate %tmp.2 6 8 25 ];
+        %tmp.2 = getv ? :MenuInputDelegate;
+        symbol [ initialize %tmp.3 6 26 36 ];
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsMenuDelegate_mc_5_26_7_4_stop:
+    }
+    [ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsMenuDelegate.mc"; @line = 9; @symbol_functiondef = [onMenuItem,9,13,23]; @symbol_param<0> = [item,9,24,28]; ]
+    function onMenuItem(item) {
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsMenuDelegate_mc_9_30_15_4_start:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsMenuDelegate.mc" 10 8 ]
+        symbol [ WatchUi %tmp.1 10 8 15 ];
+        %tmp.1 = getm $.Toybox.WatchUi;
+        symbol [ pushView %tmp.2 10 16 24 ];
+        %tmp.2 = getv function %tmp.1 :pushView;
+        symbol [ ToolView %tmp.6 11 16 24 ];
+        %tmp.6 = getv ? :ToolView;
+        %tmp.7 = lgetv %item;
+        symbol [ item %tmp.7 11 25 29 ];
+        %tmp.3 = newc %tmp.6 (%tmp.7);
+        %tmp.8 = null;
+        symbol [ WatchUi %tmp.9 13 12 19 ];
+        %tmp.9 = getm $.Toybox.WatchUi;
+        symbol [ SLIDE_IMMEDIATE %tmp.10 13 20 35 ];
+        %tmp.10 = getv %tmp.9 :SLIDE_IMMEDIATE;
+        invoke %tmp.1 %tmp.2(%tmp.3, %tmp.8, %tmp.10);
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsMenuDelegate_mc_9_30_15_4_stop:
+    }
+}
+[ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsMenuDelegate.mc"; @line = 1; ]
+<init> {
+}

@@ -1,0 +1,314 @@
+[ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc"; @line = 1; @symbol_usingdef<0> = [Toybox,1,6,12]; @symbol_usingdef<1> = [WatchUi,1,13,20]; ]
+using Toybox.WatchUi;
+[ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc"; @line = 3; @symbol_classdef = [DiveToolsDelegate,3,6,23]; @symbol_extends<0> = [WatchUi,4,12,19]; @symbol_extends<1> = [InputDelegate,4,20,33]; ]
+class DiveToolsDelegate extends WatchUi.InputDelegate {
+    [ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc"; @line = 3; ]
+    <init> {
+    }
+    [ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc"; @line = 3; ]
+    static
+    <init> {
+    }
+    [ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc"; @line = 6; @position = 8; @symbol_vardef = [view,6,8,12]; ]
+    var view;
+    [ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc"; @line = 8; @symbol_functiondef = [initialize,8,13,23]; @symbol_param<0> = [viewRef,8,24,31]; ]
+    function initialize(viewRef) as Void {
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_8_33_12_4_start:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 9 8 ]
+        symbol [ InputDelegate %tmp.2 9 8 21 ];
+        %tmp.2 = getv ? :InputDelegate;
+        symbol [ initialize %tmp.3 9 22 32 ];
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 11 8 ]
+        %tmp.4 = lgetv %viewRef;
+        symbol [ viewRef %tmp.4 11 15 22 ];
+        symbol [ view ? 11 8 12 ];
+        putv self :view %tmp.4;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_8_33_12_4_stop:
+    }
+    [ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc"; @line = 14; @symbol_functiondef = [onKey,14,13,18]; @symbol_param<0> = [keyEvent,14,19,27]; ]
+    function onKey(keyEvent) {
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_14_29_36_4_start:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 15 8 ]
+        [ "C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_14_29_36_4_start" "C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_14_29_36_4_stop" ]
+        %key.1 = local;
+        symbol [ key %key.1 15 12 15 ];
+        %tmp.1 = lgetv %keyEvent;
+        symbol [ keyEvent %tmp.1 15 18 26 ];
+        symbol [ getKey %tmp.2 15 27 33 ];
+        %tmp.2 = getv function %tmp.1 :getKey;
+        %tmp.3 = invoke %tmp.1 %tmp.2();
+        lputv %key.1 %tmp.3;
+        symbol [ key %key.1 15 12 15 ];
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 17 8 ]
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_17_8_20_8_if_stmt:
+        %tmp.4 = lgetv %key.1;
+        symbol [ key %tmp.4 17 12 15 ];
+        symbol [ WatchUi %tmp.5 17 19 26 ];
+        %tmp.5 = getm $.Toybox.WatchUi;
+        symbol [ KEY_UP %tmp.6 17 27 33 ];
+        %tmp.6 = getv %tmp.5 :KEY_UP;
+        %tmp.7 = eq %tmp.4 %tmp.6;
+        bf %tmp.7 @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_17_8_20_8_if_end;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_17_8_20_8_if_true:
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_17_35_20_8_start:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 18 12 ]
+        symbol [ view %tmp.9 18 12 16 ];
+        %tmp.9 = getv ? :view;
+        symbol [ moveSelection %tmp.10 18 17 30 ];
+        %tmp.10 = getv function %tmp.9 :moveSelection;
+        %tmp.11 = -1;
+        invoke %tmp.9 %tmp.10(%tmp.11);
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 19 12 ]
+        %tmp.12 = true;
+        ret %tmp.12;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_17_35_20_8_stop:
+        goto @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_17_8_20_8_if_end;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_17_8_20_8_if_end:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 22 8 ]
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_22_8_25_8_if_stmt:
+        %tmp.13 = lgetv %key.1;
+        symbol [ key %tmp.13 22 12 15 ];
+        symbol [ WatchUi %tmp.14 22 19 26 ];
+        %tmp.14 = getm $.Toybox.WatchUi;
+        symbol [ KEY_DOWN %tmp.15 22 27 35 ];
+        %tmp.15 = getv %tmp.14 :KEY_DOWN;
+        %tmp.16 = eq %tmp.13 %tmp.15;
+        bf %tmp.16 @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_22_8_25_8_if_end;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_22_8_25_8_if_true:
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_22_37_25_8_start:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 23 12 ]
+        symbol [ view %tmp.18 23 12 16 ];
+        %tmp.18 = getv ? :view;
+        symbol [ moveSelection %tmp.19 23 17 30 ];
+        %tmp.19 = getv function %tmp.18 :moveSelection;
+        %tmp.20 = 1;
+        invoke %tmp.18 %tmp.19(%tmp.20);
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 24 12 ]
+        %tmp.21 = true;
+        ret %tmp.21;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_22_37_25_8_stop:
+        goto @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_22_8_25_8_if_end;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_22_8_25_8_if_end:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 27 8 ]
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_27_8_33_8_if_stmt:
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_28_12_29_27_begin:
+        %tmp.22 = lgetv %key.1;
+        symbol [ key %tmp.22 28 12 15 ];
+        symbol [ WatchUi %tmp.23 28 19 26 ];
+        %tmp.23 = getm $.Toybox.WatchUi;
+        symbol [ KEY_ENTER %tmp.24 28 27 36 ];
+        %tmp.24 = getv %tmp.23 :KEY_ENTER;
+        %tmp.25 = eq %tmp.22 %tmp.24;
+        bt %tmp.25 @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_27_8_33_8_if_true;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_29_12_29_27_false:
+        %tmp.26 = lgetv %key.1;
+        symbol [ key %tmp.26 29 12 15 ];
+        symbol [ WatchUi %tmp.27 29 19 26 ];
+        %tmp.27 = getm $.Toybox.WatchUi;
+        symbol [ KEY_START %tmp.28 29 27 36 ];
+        %tmp.28 = getv %tmp.27 :KEY_START;
+        %tmp.29 = eq %tmp.26 %tmp.28;
+        push %tmp.29;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_29_12_29_27_end:
+        %tmp.30 = phi [%tmp.25 @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_28_12_29_27_begin] [%tmp.29 @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_29_12_29_27_false] [%tmp.30 @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_29_12_29_27_end];
+        bf %tmp.30 @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_27_8_33_8_if_end;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_27_8_33_8_if_true:
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_30_10_33_8_start:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 31 12 ]
+        %tmp.31 = self;
+        symbol [ openSelectedTool %tmp.32 31 12 28 ];
+        %tmp.32 = getv function %tmp.31 :openSelectedTool;
+        invoke %tmp.31 %tmp.32();
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 32 12 ]
+        %tmp.33 = true;
+        ret %tmp.33;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_30_10_33_8_stop:
+        goto @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_27_8_33_8_if_end;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_27_8_33_8_if_end:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 35 8 ]
+        %tmp.34 = false;
+        ret %tmp.34;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_14_29_36_4_stop:
+    }
+    [ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc"; @line = 38; @symbol_functiondef = [openSelectedTool,38,13,29]; ]
+    function openSelectedTool() {
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_38_32_95_4_start:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 39 8 ]
+        [ "C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_38_32_95_4_start" "C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_38_32_95_4_stop" ]
+        %selected.1 = local;
+        symbol [ selected %selected.1 39 12 20 ];
+        symbol [ view %tmp.2 40 12 16 ];
+        %tmp.2 = getv ? :view;
+        symbol [ getSelection %tmp.3 40 17 29 ];
+        %tmp.3 = getv function %tmp.2 :getSelection;
+        %tmp.4 = invoke %tmp.2 %tmp.3();
+        lputv %selected.1 %tmp.4;
+        symbol [ selected %selected.1 39 12 20 ];
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 42 8 ]
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_42_8_53_8_if_stmt:
+        %tmp.5 = lgetv %selected.1;
+        symbol [ selected %tmp.5 42 12 20 ];
+        %tmp.6 = 0;
+        %tmp.7 = eq %tmp.5 %tmp.6;
+        bf %tmp.7 @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_42_8_53_8_if_end;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_42_8_53_8_if_true:
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_42_27_53_8_start:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 43 12 ]
+        [ "C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_42_27_53_8_start" "C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_42_27_53_8_stop" ]
+        %modView.2 = local;
+        symbol [ modView %modView.2 43 16 23 ];
+        symbol [ ModView %tmp.11 44 20 27 ];
+        %tmp.11 = getv ? :ModView;
+        %tmp.8 = newc %tmp.11 ();
+        lputv %modView.2 %tmp.8;
+        symbol [ modView %modView.2 43 16 23 ];
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 46 12 ]
+        symbol [ WatchUi %tmp.12 46 12 19 ];
+        %tmp.12 = getm $.Toybox.WatchUi;
+        symbol [ pushView %tmp.13 46 20 28 ];
+        %tmp.13 = getv function %tmp.12 :pushView;
+        %tmp.14 = lgetv %modView.2;
+        symbol [ modView %tmp.14 47 16 23 ];
+        symbol [ ModDelegate %tmp.18 48 20 31 ];
+        %tmp.18 = getv ? :ModDelegate;
+        %tmp.19 = lgetv %modView.2;
+        symbol [ modView %tmp.19 48 32 39 ];
+        %tmp.15 = newc %tmp.18 (%tmp.19);
+        symbol [ WatchUi %tmp.20 49 16 23 ];
+        %tmp.20 = getm $.Toybox.WatchUi;
+        symbol [ SLIDE_IMMEDIATE %tmp.21 49 24 39 ];
+        %tmp.21 = getv %tmp.20 :SLIDE_IMMEDIATE;
+        invoke %tmp.12 %tmp.13(%tmp.14, %tmp.15, %tmp.21);
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 52 12 ]
+        ret ?;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_42_27_53_8_stop:
+        goto @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_42_8_53_8_if_end;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_42_8_53_8_if_end:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 55 8 ]
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_55_8_68_8_if_stmt:
+        %tmp.22 = lgetv %selected.1;
+        symbol [ selected %tmp.22 55 12 20 ];
+        %tmp.23 = 1;
+        %tmp.24 = eq %tmp.22 %tmp.23;
+        bf %tmp.24 @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_55_8_68_8_if_end;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_55_8_68_8_if_true:
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_55_27_68_8_start:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 56 12 ]
+        [ "C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_55_27_68_8_start" "C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_55_27_68_8_stop" ]
+        %bestMixView.3 = local;
+        symbol [ bestMixView %bestMixView.3 56 16 27 ];
+        symbol [ BestMixView %tmp.28 57 20 31 ];
+        %tmp.28 = getv ? :BestMixView;
+        %tmp.25 = newc %tmp.28 ();
+        lputv %bestMixView.3 %tmp.25;
+        symbol [ bestMixView %bestMixView.3 56 16 27 ];
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 59 12 ]
+        symbol [ WatchUi %tmp.29 59 12 19 ];
+        %tmp.29 = getm $.Toybox.WatchUi;
+        symbol [ pushView %tmp.30 59 20 28 ];
+        %tmp.30 = getv function %tmp.29 :pushView;
+        %tmp.31 = lgetv %bestMixView.3;
+        symbol [ bestMixView %tmp.31 60 16 27 ];
+        symbol [ BestMixDelegate %tmp.35 61 20 35 ];
+        %tmp.35 = getv ? :BestMixDelegate;
+        %tmp.36 = lgetv %bestMixView.3;
+        symbol [ bestMixView %tmp.36 62 20 31 ];
+        %tmp.32 = newc %tmp.35 (%tmp.36);
+        symbol [ WatchUi %tmp.37 64 16 23 ];
+        %tmp.37 = getm $.Toybox.WatchUi;
+        symbol [ SLIDE_IMMEDIATE %tmp.38 64 24 39 ];
+        %tmp.38 = getv %tmp.37 :SLIDE_IMMEDIATE;
+        invoke %tmp.29 %tmp.30(%tmp.31, %tmp.32, %tmp.38);
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 67 12 ]
+        ret ?;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_55_27_68_8_stop:
+        goto @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_55_8_68_8_if_end;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_55_8_68_8_if_end:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 70 8 ]
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_70_8_81_8_if_stmt:
+        %tmp.39 = lgetv %selected.1;
+        symbol [ selected %tmp.39 70 12 20 ];
+        %tmp.40 = 2;
+        %tmp.41 = eq %tmp.39 %tmp.40;
+        bf %tmp.41 @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_70_8_81_8_if_end;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_70_8_81_8_if_true:
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_70_27_81_8_start:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 71 12 ]
+        [ "C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_70_27_81_8_start" "C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_70_27_81_8_stop" ]
+        %eadView.4 = local;
+        symbol [ eadView %eadView.4 71 16 23 ];
+        symbol [ EadView %tmp.45 72 20 27 ];
+        %tmp.45 = getv ? :EadView;
+        %tmp.42 = newc %tmp.45 ();
+        lputv %eadView.4 %tmp.42;
+        symbol [ eadView %eadView.4 71 16 23 ];
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 74 12 ]
+        symbol [ WatchUi %tmp.46 74 12 19 ];
+        %tmp.46 = getm $.Toybox.WatchUi;
+        symbol [ pushView %tmp.47 74 20 28 ];
+        %tmp.47 = getv function %tmp.46 :pushView;
+        %tmp.48 = lgetv %eadView.4;
+        symbol [ eadView %tmp.48 75 16 23 ];
+        symbol [ EadDelegate %tmp.52 76 20 31 ];
+        %tmp.52 = getv ? :EadDelegate;
+        %tmp.53 = lgetv %eadView.4;
+        symbol [ eadView %tmp.53 76 32 39 ];
+        %tmp.49 = newc %tmp.52 (%tmp.53);
+        symbol [ WatchUi %tmp.54 77 16 23 ];
+        %tmp.54 = getm $.Toybox.WatchUi;
+        symbol [ SLIDE_IMMEDIATE %tmp.55 77 24 39 ];
+        %tmp.55 = getv %tmp.54 :SLIDE_IMMEDIATE;
+        invoke %tmp.46 %tmp.47(%tmp.48, %tmp.49, %tmp.55);
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 80 12 ]
+        ret ?;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_70_27_81_8_stop:
+        goto @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_70_8_81_8_if_end;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_70_8_81_8_if_end:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 83 8 ]
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_83_8_94_8_if_stmt:
+        %tmp.56 = lgetv %selected.1;
+        symbol [ selected %tmp.56 83 12 20 ];
+        %tmp.57 = 3;
+        %tmp.58 = eq %tmp.56 %tmp.57;
+        bf %tmp.58 @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_83_8_94_8_if_end;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_83_8_94_8_if_true:
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_83_27_94_8_start:
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 84 12 ]
+        [ "C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_83_27_94_8_start" "C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_83_27_94_8_stop" ]
+        %endView.5 = local;
+        symbol [ endView %endView.5 84 16 23 ];
+        symbol [ EndView %tmp.62 85 20 27 ];
+        %tmp.62 = getv ? :EndView;
+        %tmp.59 = newc %tmp.62 ();
+        lputv %endView.5 %tmp.59;
+        symbol [ endView %endView.5 84 16 23 ];
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 87 12 ]
+        symbol [ WatchUi %tmp.63 87 12 19 ];
+        %tmp.63 = getm $.Toybox.WatchUi;
+        symbol [ pushView %tmp.64 87 20 28 ];
+        %tmp.64 = getv function %tmp.63 :pushView;
+        %tmp.65 = lgetv %endView.5;
+        symbol [ endView %tmp.65 88 16 23 ];
+        symbol [ EndDelegate %tmp.69 89 20 31 ];
+        %tmp.69 = getv ? :EndDelegate;
+        %tmp.70 = lgetv %endView.5;
+        symbol [ endView %tmp.70 89 32 39 ];
+        %tmp.66 = newc %tmp.69 (%tmp.70);
+        symbol [ WatchUi %tmp.71 90 16 23 ];
+        %tmp.71 = getm $.Toybox.WatchUi;
+        symbol [ SLIDE_IMMEDIATE %tmp.72 90 24 39 ];
+        %tmp.72 = getv %tmp.71 :SLIDE_IMMEDIATE;
+        invoke %tmp.63 %tmp.64(%tmp.65, %tmp.66, %tmp.72);
+[ "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc" 93 12 ]
+        ret ?;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_83_27_94_8_stop:
+        goto @C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_83_8_94_8_if_end;
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_83_8_94_8_if_end:
+C__Users_filip_Documents_Garmin_Apps_DiveTools_DiveTools_source_DiveToolsDelegate_mc_38_32_95_4_stop:
+    }
+}
+[ @file = "C:\Users\filip\Documents\Garmin Apps\DiveTools\DiveTools\source\DiveToolsDelegate.mc"; @line = 1; ]
+<init> {
+}
