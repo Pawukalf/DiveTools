@@ -1,8 +1,16 @@
-# DiveTools
+# Garmin watch app — DiveTools
 
-DiveTools is a collection of practical diving utilities for Garmin Descent dive computers.
+Practical diving tools for Garmin Descent dive computers.
 
-Built by a diver for divers, DiveTools provides quick access to commonly used calculations and planning tools directly on your wrist, eliminating the need to carry separate tables, calculators, or mobile apps.
+📥 Download: https://sydneydiving.com.au/b/k712f
+
+☕ Buy Me a Coffee: https://buymeacoffee.com/sydneydiving
+
+---
+
+DiveTools brings a collection of commonly used scuba and technical diving calculations directly to your wrist, allowing divers, instructors, divemasters and gas blenders to access key information without reaching for a phone or desktop calculator.
+
+> ⚠️ Planning aid only. Always verify calculations and dive within your training, procedures and dive computer limits.
 
 ## Features
 
