@@ -1,9 +1,6 @@
-/1.0
-/1.0.1
-/21cee2c2-30ea-4f3a-b7c5-628174279ae9.png
-/6a731f44-475f-43a0-a6d1-fce65eae3faf.png
-/a32b7fe0-7398-4ff2-8abf-fe37ad20fcc2.png
-/d200b8ed-a9f1-4e5c-ba9d-6e8a556a3b35.png
-/DiveTools.code-workspace
+/bin/
+/imp/bin/
 /Test 51mm.bat
-/Test G 1.bat
+/imp/Test 51mm.bat
+*.prg
+*.debug.xml
